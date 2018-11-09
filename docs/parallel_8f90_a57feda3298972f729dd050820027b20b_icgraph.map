@@ -1,0 +1,12 @@
+<map id="sum_all_dp" name="sum_all_dp">
+<area shape="rect" id="node2" href="$compute__volumes__and__areas_8_f90.html#a09a627486b2fccbdb0cc91f58ca8e377" title="compute_volumes_and\l_areas" alt="" coords="143,5,302,44"/>
+<area shape="rect" id="node6" href="$compute__volumes__and__areas_8_f90.html#a08f6c105dc28fc4546607cece58b4a8a" title="compute_earth_mass" alt="" coords="148,68,297,93"/>
+<area shape="rect" id="node7" href="$combine__sem_8f90.html#a0e7c98949184913cac9dd34cf632408a" title="sum_kernel" alt="" coords="177,117,268,143"/>
+<area shape="rect" id="node10" href="$sum__preconditioned__kernels_8f90.html#aefea54ef6db6cbf34699be4bf9485f83" title="sum_kernel_pre" alt="" coords="164,169,281,195"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="350,16,500,41"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="548,16,660,41"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="708,16,806,41"/>
+<area shape="rect" id="node8" href="$combine__sem_8f90.html#ad46eead2a8c0029103661cfa4d3b45c3" title="combine_sem_globe" alt="" coords="353,68,497,93"/>
+<area shape="rect" id="node9" href="$sum__kernels_8_f90.html#aefd110537449bab81a99f09813e2bded" title="sum_kernels_globe" alt="" coords="356,117,493,143"/>
+<area shape="rect" id="node11" href="$sum__preconditioned__kernels_8f90.html#a0fa167e9b364ed662bb69e3487dba9b9" title="sum_preconditioned\l_kernels_globe" alt="" coords="354,167,496,205"/>
+</map>

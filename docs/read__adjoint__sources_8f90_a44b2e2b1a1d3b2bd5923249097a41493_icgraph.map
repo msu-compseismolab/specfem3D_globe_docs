@@ -1,0 +1,7 @@
+<map id="read_adjoint_sources" name="read_adjoint_sources">
+<area shape="rect" id="node2" href="$compute__add__sources_8f90.html#a82558d5fb7bd57a070786a6813c85a9a" title="compute_add_sources\l_adjoint" alt="" coords="202,24,358,63"/>
+<area shape="rect" id="node3" href="$compute__forces__viscoelastic__calling__routine_8_f90.html#ad861052a974f995b94bb0cab9ec41cca" title="compute_forces_viscoelastic" alt="" coords="406,31,598,56"/>
+<area shape="rect" id="node4" href="$iterate__time_8_f90.html#a1c7956b87b2e085cd32a0c20fb6d29c9" title="iterate_time" alt="" coords="672,5,763,31"/>
+<area shape="rect" id="node6" href="$iterate__time__undoatt_8_f90.html#ac69f6bf2bfb2c82a2d50a79925c40be8" title="iterate_time_undoatt" alt="" coords="646,55,789,80"/>
+<area shape="rect" id="node5" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="837,31,930,56"/>
+</map>

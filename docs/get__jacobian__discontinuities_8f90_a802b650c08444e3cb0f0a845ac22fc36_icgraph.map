@@ -1,0 +1,8 @@
+<map id="get_jacobian_discontinuities" name="get_jacobian_discontinuities">
+<area shape="rect" id="node2" href="$create__doubling__elements_8f90.html#a6aa046060343b6d8e6b93c70325621ab" title="create_doubling_elements" alt="" coords="241,5,419,31"/>
+<area shape="rect" id="node7" href="$create__regular__elements_8f90.html#a69b69e5b633f2f4d14161b4d96ca3e8c" title="create_regular_elements" alt="" coords="246,55,415,80"/>
+<area shape="rect" id="node3" href="$create__regions__elements_8f90.html#a788880ddfdfb83bf130daf86daee55a7" title="create_regions_elements" alt="" coords="467,31,638,56"/>
+<area shape="rect" id="node4" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="686,31,836,56"/>
+<area shape="rect" id="node5" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="884,31,996,56"/>
+<area shape="rect" id="node6" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1044,31,1142,56"/>
+</map>

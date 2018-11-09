@@ -1,0 +1,43 @@
+<map id="write_avs_dx_output" name="write_avs_dx_output">
+<area shape="rect" id="node2" href="$write___a_v_s___d_x__output__adios_8f90.html#a5291dc20f2daa1659613ba126534ff48" title="write_avs_dx_output\l_adios" alt="" coords="213,672,357,711"/>
+<area shape="rect" id="node39" href="$write___a_v_s___d_x__global__data_8f90.html#a30f10a7c486e5ac3523a413f40e5e0e8" title="write_avs_dx_global_data" alt="" coords="197,296,372,322"/>
+<area shape="rect" id="node40" href="$write___a_v_s___d_x__global__faces__data_8f90.html#aa794c3ae8b07824249d485940a12961c" title="write_avs_dx_global\l_faces_data" alt="" coords="454,1366,596,1404"/>
+<area shape="rect" id="node41" href="$write___a_v_s___d_x__global__chunks__data_8f90.html#ae83af0c0c51143941173268014a10911" title="write_avs_dx_global\l_chunks_data" alt="" coords="454,1303,596,1342"/>
+<area shape="rect" id="node42" href="$write___a_v_s___d_x__surface__data_8f90.html#afb25992f3fe6c1f3dc77c5fbde2717f5" title="write_avs_dx_surface_data" alt="" coords="433,1428,617,1454"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#ab40105b69cc0851ddeff89077fe800d6" title="world_size" alt="" coords="483,594,567,619"/>
+<area shape="rect" id="node4" href="$create__name__database_8f90.html#a583a4cce11faa006fbbbe724eb3cfa1b" title="create_name_database\l_adios" alt="" coords="445,643,606,682"/>
+<area shape="rect" id="node5" href="$namespaceavs__dx__global__mod.html#af5a78e7af35d29ebf0d9719a5718a795" title="Allocate the structure that hold data to be written; initialize adios vars. " alt="" coords="706,308,857,360"/>
+<area shape="rect" id="node9" href="$namespaceavs__dx__global__faces__mod.html#a52d5b8b01f6005e8bcdf9eefd8994471" title="avs_dx_global_faces\l_mod::define_avs_dx\l_global_faces_data_adios" alt="" coords="693,444,870,496"/>
+<area shape="rect" id="node10" href="$namespaceavs__dx__global__chunks__mod.html#ace0cab28bd8978499653905e908382c7" title="avs_dx_global_chunks\l_mod::define_avs_dx_global\l_chunks_data" alt="" coords="686,584,877,636"/>
+<area shape="rect" id="node11" href="$namespaceavs__dx__surface__mod.html#aa516aaf3c182696e2d708da810645089" title="avs_dx_surface_mod\l::define_avs_dx_surfaces\l_data_adios" alt="" coords="933,811,1105,863"/>
+<area shape="rect" id="node12" href="$namespaceavs__dx__global__mod.html#a5e2ca667b6bece6b65eecd77b06ab2f4" title="Prepare the global AVS/DX data to be written; fill the structure. " alt="" coords="701,862,861,914"/>
+<area shape="rect" id="node13" href="$namespaceavs__dx__global__mod.html#a38fce2f407a8b93b40094300e1fb641f" title="Schedule write to ADIOS file for global AVS/DX data. " alt="" coords="452,1075,599,1127"/>
+<area shape="rect" id="node14" href="$namespaceavs__dx__global__faces__mod.html#a502827eb8a195ee75d3c90c8a0d45e24" title="avs_dx_global_faces\l_mod::prepare_avs_dx\l_global_faces_data_adios" alt="" coords="437,999,613,1051"/>
+<area shape="rect" id="node26" href="$namespaceavs__dx__global__faces__mod.html#a3bc596e4985100c141973b507f5ccc5a" title="avs_dx_global_faces\l_mod::write_avs_dx_global\l_faces_data_adios" alt="" coords="434,1151,617,1203"/>
+<area shape="rect" id="node27" href="$namespaceavs__dx__global__chunks__mod.html#adf6dccd8d3671f5661681e49a929e701" title="avs_dx_global_chunks\l_mod::prepare_avs_dx\l_global_chunks_data_adios" alt="" coords="432,923,619,975"/>
+<area shape="rect" id="node29" href="$namespaceavs__dx__global__chunks__mod.html#a318138e5d3fa5f804c4a7b292dc83ae2" title="avs_dx_global_chunks\l_mod::write_avs_dx_global\l_chunks_data_adios" alt="" coords="434,48,617,100"/>
+<area shape="rect" id="node30" href="$namespaceavs__dx__surface__mod.html#ab65fb5ef781e58a9913ce2c5d0fb0204" title="avs_dx_surface_mod\l::prepare_avs_dx_surfaces\l_data_adios" alt="" coords="434,1227,616,1279"/>
+<area shape="rect" id="node31" href="$namespaceavs__dx__surface__mod.html#a0dbe85b19ef3b6635b23fc8cd6863ab9" title="avs_dx_surface_mod\l::write_avs_dx_surfaces\l_data_adios" alt="" coords="443,124,607,176"/>
+<area shape="rect" id="node32" href="$namespacemanager__adios.html#a73b0afa46e5475dd6f3afd90c490d17a" title="manager_adios::close\l_file_adios" alt="" coords="449,758,601,796"/>
+<area shape="rect" id="node35" href="$namespaceavs__dx__global__mod.html#a70df1568536083f093475f562892a948" title="Free temporary structure filled to write AVS/DX global variable to file. " alt="" coords="420,303,630,342"/>
+<area shape="rect" id="node36" href="$namespaceavs__dx__global__faces__mod.html#a085388e27c9ef42a3f81cc1055b489c0" title="avs_dx_global_faces\l_mod::free_avs_dx_global\l_faces_data_adios" alt="" coords="436,366,614,418"/>
+<area shape="rect" id="node37" href="$namespaceavs__dx__global__chunks__mod.html#a5d90c7ab74d8de36e193df26ac2d9375" title="avs_dx_global_chunks\l_mod::free_avs_dx_global\l_chunks_data_adios" alt="" coords="436,442,614,494"/>
+<area shape="rect" id="node38" href="$namespaceavs__dx__surface__mod.html#a279cd7c746cf26eb43d11305998649a5" title="avs_dx_surface_mod\l::free_avs_dx_surfaces\l_data_adios" alt="" coords="446,518,605,570"/>
+<area shape="rect" id="node6" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="1153,1015,1224,1040"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="1272,1015,1353,1040"/>
+<area shape="rect" id="node8" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="1401,1015,1487,1040"/>
+<area shape="rect" id="node15" href="$rthetaphi__xyz_8f90.html#a9a2d6558f7f1b34dfd37aa834f59ec97" title="xyz_2_rthetaphi_dble" alt="" coords="707,1350,855,1375"/>
+<area shape="rect" id="node16" href="$spline__routines_8f90.html#aadd8c5cf711f6176dbdecb5d94ab0a3d" title="spline_evaluation" alt="" coords="719,1300,844,1326"/>
+<area shape="rect" id="node17" href="$meshfem3_d__models_8_f90.html#abbbe71717d8322ae168b2cb43ab44e26" title="meshfem3d_models_get1d_val" alt="" coords="678,1251,885,1276"/>
+<area shape="rect" id="node18" href="$model__prem_8f90.html#adfe6a7ea14e1b959778d4d6afa9c33b8" title="model_prem_aniso" alt="" coords="952,1388,1086,1414"/>
+<area shape="rect" id="node19" href="$model__prem_8f90.html#a232931965558c30253cb5c05975c899d" title="model_prem_iso" alt="" coords="959,1438,1079,1463"/>
+<area shape="rect" id="node20" href="$model__1dref_8f90.html#a7d14e45d2867ebde7d4196f4176ef8e0" title="model_1dref" alt="" coords="971,1191,1067,1216"/>
+<area shape="rect" id="node21" href="$model__1066a_8f90.html#ae184fda5675c8152f242bdbdbc07a2e6" title="model_1066a" alt="" coords="968,1240,1070,1266"/>
+<area shape="rect" id="node22" href="$model__ak135_8f90.html#ad9f1f7bbe87caa71c001efe65c72603d" title="model_ak135" alt="" coords="968,1290,1070,1315"/>
+<area shape="rect" id="node23" href="$model__iasp91_8f90.html#acab80fdde3f97790feefe16f9f5dd27c" title="model_iasp91" alt="" coords="967,1487,1071,1512"/>
+<area shape="rect" id="node24" href="$model__jp1d_8f90.html#a471e748d068cb1983237b4a066596cca" title="model_jp1d" alt="" coords="974,1142,1064,1167"/>
+<area shape="rect" id="node25" href="$model__sea1d_8f90.html#aea7e3c9550d784cdd81f74682148654c" title="model_sea1d" alt="" coords="968,1339,1070,1364"/>
+<area shape="rect" id="node28" href="$model__prem_8f90.html#a969992110f3107ef7831ac249657d3d3" title="prem_display_outer_core" alt="" coords="696,1040,867,1066"/>
+<area shape="rect" id="node33" href="$parallel_8f90.html#a0e90b72ed9435edc806d698beceb6d66" title="synchronize_all_comm" alt="" coords="703,710,860,735"/>
+<area shape="rect" id="node34" href="$parallel_8f90.html#add9a9f2cd05c788763bab4d949b5f40b" title="world_get_comm_self" alt="" coords="706,660,857,686"/>
+</map>

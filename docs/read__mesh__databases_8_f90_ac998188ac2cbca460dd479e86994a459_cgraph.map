@@ -1,0 +1,11 @@
+<map id="read_mesh_databases_ic" name="read_mesh_databases_ic">
+<area shape="rect" id="node2" href="$read__arrays__solver__adios_8_f90.html#a53a578c79478dce78e4116d2d17153d5" title="Read adios arrays created by the mesher (file: regX_solver_data.bp) " alt="" coords="249,5,385,44"/>
+<area shape="rect" id="node3" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="508,69,579,95"/>
+<area shape="rect" id="node6" href="$read__arrays__solver_8f90.html#a3260f1eaff2549799292011b0b981db0" title="read_arrays_solver" alt="" coords="249,120,385,145"/>
+<area shape="rect" id="node8" href="$read__mesh__databases_8_f90.html#a25fa947da554e5007651245210ae340c" title="bcast_mesh_databases_ic" alt="" coords="227,169,407,195"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="680,69,761,95"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="809,69,895,95"/>
+<area shape="rect" id="node7" href="$create__name__database_8f90.html#a1458d5ed1adf73cdc3c32f0a0807fc71" title="create_name_database" alt="" coords="463,120,624,145"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#a58023b320aed75489cd7d25abd9a8e72" title="bcast_all_cr_for_database" alt="" coords="455,169,632,195"/>
+<area shape="rect" id="node10" href="$parallel_8f90.html#acf5a65578a16c48015d5b9076195c241" title="bcast_all_i_for_database" alt="" coords="459,219,628,244"/>
+</map>

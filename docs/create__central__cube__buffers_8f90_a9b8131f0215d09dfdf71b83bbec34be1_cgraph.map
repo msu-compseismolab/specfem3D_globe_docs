@@ -1,0 +1,8 @@
+<map id="create_central_cube_buffers" name="create_central_cube_buffers">
+<area shape="rect" id="node2" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="209,5,280,31"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#add579eaaaa143ef0891b91e553c57eef" title="recv_dp" alt="" coords="210,55,279,80"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#ab7692f76fed1056c66a5fe7d6cd41b3c" title="send_dp" alt="" coords="208,104,281,129"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#acc57c1849878b70f06aaffb37c9e4144" title="sendrecv_dp" alt="" coords="195,153,293,179"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="341,5,422,31"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="470,5,556,31"/>
+</map>

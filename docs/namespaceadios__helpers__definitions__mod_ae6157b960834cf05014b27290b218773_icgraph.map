@@ -1,0 +1,7 @@
+<map id="adios_helpers_definitions_mod::define_adios_global_dims_1d" name="adios_helpers_definitions_mod::define_adios_global_dims_1d">
+<area shape="rect" id="node2" href="$namespaceadios__helpers__definitions__mod.html#adede1397d69e6b1f53739dfc57aa2ec2" title="Define a global ADIOS 1D real array and autoincrement the adios group size. " alt="" coords="234,5,415,57"/>
+<area shape="rect" id="node3" href="$namespaceadios__helpers__definitions__mod.html#a74e633e630f9292bf1ff00d9d4461a17" title="Define a global ADIOS 1D double array and autoincrement the adios group size. " alt="" coords="234,81,415,133"/>
+<area shape="rect" id="node4" href="$namespaceadios__helpers__definitions__mod.html#a491d8d0d07c55d8d10cff8e6b4fcca0c" title="Define a global ADIOS 1D int array and autoincrement the adios group size. " alt="" coords="234,157,415,209"/>
+<area shape="rect" id="node5" href="$namespaceadios__helpers__definitions__mod.html#a0c67fd605b979b19c0618aac974233be" title="Define a global ADIOS 1D long array and autoincrement the adios group size. " alt="" coords="234,233,415,285"/>
+<area shape="rect" id="node6" href="$namespaceadios__helpers__definitions__mod.html#a5b402628888513fe474e3ad6a16331be" title="Define a global ADIOS 1D logical array and autoincrement the adios group size. " alt="" coords="234,309,415,361"/>
+</map>

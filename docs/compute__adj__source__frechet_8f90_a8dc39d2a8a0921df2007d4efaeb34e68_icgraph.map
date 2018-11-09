@@ -1,0 +1,7 @@
+<map id="compute_adj_source_frechet" name="compute_adj_source_frechet">
+<area shape="rect" id="node2" href="$compute__seismograms_8_f90.html#a39edd5bde0f9a8558d8f1fcc0e889f88" title="compute_seismograms\l_adjoint" alt="" coords="198,24,358,63"/>
+<area shape="rect" id="node3" href="$write__seismograms_8f90.html#a6ea5fef742d190f97b078fcfb1912d40" title="write_seismograms" alt="" coords="406,31,542,56"/>
+<area shape="rect" id="node4" href="$iterate__time_8_f90.html#a1c7956b87b2e085cd32a0c20fb6d29c9" title="iterate_time" alt="" coords="616,5,707,31"/>
+<area shape="rect" id="node6" href="$iterate__time__undoatt_8_f90.html#ac69f6bf2bfb2c82a2d50a79925c40be8" title="iterate_time_undoatt" alt="" coords="590,55,733,80"/>
+<area shape="rect" id="node5" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="781,31,874,56"/>
+</map>

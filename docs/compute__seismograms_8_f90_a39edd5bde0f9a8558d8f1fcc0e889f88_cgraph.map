@@ -1,0 +1,9 @@
+<map id="compute_seismograms_adjoint" name="compute_seismograms_adjoint">
+<area shape="rect" id="node2" href="$compute__element__strain_8_f90.html#a0a4a5e0e032d38bb9884f426b4153ea4" title="compute_element_strain\l_undoatt_nodev" alt="" coords="223,5,390,44"/>
+<area shape="rect" id="node3" href="$compute__adj__source__frechet_8f90.html#a8dc39d2a8a0921df2007d4efaeb34e68" title="compute_adj_source\l_frechet" alt="" coords="234,68,379,107"/>
+<area shape="rect" id="node4" href="$comp__source__time__function_8f90.html#aa74f0b5f16f6c44f2b552e46d69bd3c9" title="comp_source_time_function" alt="" coords="212,131,401,156"/>
+<area shape="rect" id="node5" href="$comp__source__time__function_8f90.html#a2dc699e7b9065188d4b459c17d4fb4dc" title="comp_source_time_function_ext" alt="" coords="449,104,662,129"/>
+<area shape="rect" id="node7" href="$netlib__specfun__erf_8f90.html#a56cce5b90e427855e9d3b42c852a5d7c" title="netlib_specfun_erf" alt="" coords="490,155,620,180"/>
+<area shape="rect" id="node6" href="$comp__source__time__function_8f90.html#a402d2a318e827480d47140ee8bae68e7" title="get_external_source\l_time_function" alt="" coords="710,95,852,133"/>
+<area shape="rect" id="node8" href="$netlib__specfun__erf_8f90.html#a58f33d6e09bd543f1125a32b39813709" title="calerf" alt="" coords="754,157,808,183"/>
+</map>

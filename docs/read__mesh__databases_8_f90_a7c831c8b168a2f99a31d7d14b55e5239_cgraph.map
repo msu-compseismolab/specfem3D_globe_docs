@@ -1,0 +1,51 @@
+<map id="read_mesh_databases" name="read_mesh_databases">
+<area shape="rect" id="node2" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="493,1605,582,1631"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a32aa77e0c82f9e63949d3b686a1d3663" title="recv_singlel" alt="" coords="257,1787,349,1812"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="481,877,594,903"/>
+<area shape="rect" id="node5" href="$read__mesh__databases_8_f90.html#a468d7e7db04d1738792ebba9cdf7b650" title="read_mesh_databases_cm" alt="" coords="212,712,394,737"/>
+<area shape="rect" id="node16" href="$read__mesh__databases_8_f90.html#ad6057bdbcee9fcdd000984e8535a5345" title="read_mesh_databases_oc" alt="" coords="214,661,393,687"/>
+<area shape="rect" id="node18" href="$read__mesh__databases_8_f90.html#ac998188ac2cbca460dd479e86994a459" title="read_mesh_databases_ic" alt="" coords="216,769,390,795"/>
+<area shape="rect" id="node20" href="$read__mesh__databases_8_f90.html#acfc1f90ef01cb8e381a24d9019a70581" title="read_mesh_databases\l_coupling" alt="" coords="225,325,382,364"/>
+<area shape="rect" id="node23" href="$read__mesh__databases_8_f90.html#a9d99f6a1d7e85088800d239cff4fbcb5" title="read_mesh_databases\l_addressing" alt="" coords="459,1543,616,1581"/>
+<area shape="rect" id="node25" href="$read__mesh__databases_8_f90.html#a1a0cd47519ca53cbb48b3d7b9e252baa" title="read_mesh_databases_mpi" alt="" coords="210,1184,396,1209"/>
+<area shape="rect" id="node35" href="$read__mesh__databases_8_f90.html#a334883faf74507fe10e023da72b5c11d" title="read_mesh_databases\l_stacey" alt="" coords="225,496,382,535"/>
+<area shape="rect" id="node38" href="$read__mesh__databases_8_f90.html#ab650505473d876a96c259f2a5882c840" title="read_mesh_databases\l_regular_kl" alt="" coords="225,1724,382,1763"/>
+<area shape="rect" id="node50" href="$parallel_8f90.html#a839750160efde70f17b751b463d41990" title="send_singlel" alt="" coords="256,1836,351,1861"/>
+<area shape="rect" id="node6" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="733,1121,804,1147"/>
+<area shape="rect" id="node9" href="$read__arrays__solver__adios_8_f90.html#a53a578c79478dce78e4116d2d17153d5" title="Read adios arrays created by the mesher (file: regX_solver_data.bp) " alt="" coords="470,763,606,801"/>
+<area shape="rect" id="node10" href="$read__arrays__solver_8f90.html#a3260f1eaff2549799292011b0b981db0" title="read_arrays_solver" alt="" coords="470,661,606,687"/>
+<area shape="rect" id="node12" href="$read__mesh__databases_8_f90.html#a76a0071be1193a5e8beb26992480836d" title="bcast_mesh_databases_cm" alt="" coords="444,117,632,143"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="905,1121,986,1147"/>
+<area shape="rect" id="node8" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="1034,1121,1120,1147"/>
+<area shape="rect" id="node11" href="$create__name__database_8f90.html#a1458d5ed1adf73cdc3c32f0a0807fc71" title="create_name_database" alt="" coords="688,867,849,892"/>
+<area shape="rect" id="node13" href="$parallel_8f90.html#a58023b320aed75489cd7d25abd9a8e72" title="bcast_all_cr_for_database" alt="" coords="680,68,857,93"/>
+<area shape="rect" id="node14" href="$parallel_8f90.html#acf5a65578a16c48015d5b9076195c241" title="bcast_all_i_for_database" alt="" coords="684,275,853,300"/>
+<area shape="rect" id="node15" href="$parallel_8f90.html#ae68d35f34c2709eecd4ebb385fb757fc" title="bcast_all_l_for_database" alt="" coords="684,117,853,143"/>
+<area shape="rect" id="node17" href="$read__mesh__databases_8_f90.html#a8fbd7306c4c549305bcc424086265e8d" title="bcast_mesh_databases_oc" alt="" coords="446,68,630,93"/>
+<area shape="rect" id="node19" href="$read__mesh__databases_8_f90.html#a25fa947da554e5007651245210ae340c" title="bcast_mesh_databases_ic" alt="" coords="448,167,627,192"/>
+<area shape="rect" id="node21" href="$read__mesh__databases__adios_8f90.html#ae870bd91e02b72bbf0936da5c38c10e1" title="Read adios boundary arrays created by the mesher (file: regX_boundary.bp) " alt="" coords="459,433,616,472"/>
+<area shape="rect" id="node22" href="$read__mesh__databases_8_f90.html#a34d7a2e2cc787bd5a200f1e01a899008" title="bcast_mesh_databases\l_coupling" alt="" coords="457,5,619,44"/>
+<area shape="rect" id="node24" href="$parallel_8f90.html#a0ef479c405030e9e6387a149a94a61b4" title="bcast_all_i" alt="" coords="726,1549,811,1575"/>
+<area shape="rect" id="node26" href="$read__mesh__databases__adios_8f90.html#a16dded2e19a71a99920bfb12f064dc28" title="Read crust mantle MPI arrays from an ADIOS file. " alt="" coords="459,1417,616,1456"/>
+<area shape="rect" id="node27" href="$read__mesh__databases_8_f90.html#a11c4ae25385cbc4e1517438330c47a35" title="read_mesh_databases\l_mpi_cm" alt="" coords="459,1115,616,1153"/>
+<area shape="rect" id="node28" href="$read__mesh__databases_8_f90.html#a8b0683262cd734501001e941830844dd" title="bcast_mesh_databases\l_mpi_cm" alt="" coords="457,927,619,965"/>
+<area shape="rect" id="node29" href="$read__mesh__databases__adios_8f90.html#aef3588f7765e267f44e782b16d9d3f01" title="Read outer core MPI arrays from an ADIOS file. " alt="" coords="459,1480,616,1519"/>
+<area shape="rect" id="node30" href="$read__mesh__databases_8_f90.html#a91a0dfd11a4aef7e1ffea44c26e67c06" title="read_mesh_databases\l_mpi_oc" alt="" coords="459,1177,616,1216"/>
+<area shape="rect" id="node31" href="$read__mesh__databases_8_f90.html#a2dc87eae571a42076d4558ddf64bc25b" title="bcast_mesh_databases\l_mpi_oc" alt="" coords="457,989,619,1028"/>
+<area shape="rect" id="node32" href="$read__mesh__databases__adios_8f90.html#a07fb1809dc0e64f50ab070a14c59e9fc" title="Read outer core MPI arrays from an ADIOS file. " alt="" coords="459,1303,616,1341"/>
+<area shape="rect" id="node33" href="$read__mesh__databases_8_f90.html#ac35ec75752d8b0b3f4c32cfe06a6b5b2" title="read_mesh_databases\l_mpi_ic" alt="" coords="459,1240,616,1279"/>
+<area shape="rect" id="node34" href="$read__mesh__databases_8_f90.html#ac0d2eaba6678dd00336e7c57a6ea5859" title="bcast_mesh_databases\l_mpi_ic" alt="" coords="457,1052,619,1091"/>
+<area shape="rect" id="node36" href="$read__mesh__databases__adios_8f90.html#a440d42a047016b3e9892f28a8d1d5323" title="Read Stacey BC arrays from an ADIOS file. " alt="" coords="459,496,616,535"/>
+<area shape="rect" id="node37" href="$read__mesh__databases_8_f90.html#a324d5237bd8d6e333115aa8208bc2884" title="bcast_mesh_databases\l_stacey" alt="" coords="457,268,619,307"/>
+<area shape="rect" id="node39" href="$locate__regular__points_8f90.html#a2792828a2adb4e91b07a0b89d81f570e" title="read_kl_regular_grid" alt="" coords="466,1707,610,1732"/>
+<area shape="rect" id="node40" href="$locate__regular__points_8f90.html#a7828d93a095bc29543efe270691c7a9a" title="find_regular_grid_slice\l_number" alt="" coords="460,1904,616,1943"/>
+<area shape="rect" id="node42" href="$parallel_8f90.html#a157cc53c0bbb2220e9ae2f80697703ab" title="send_singlei" alt="" coords="490,1756,586,1781"/>
+<area shape="rect" id="node43" href="$parallel_8f90.html#a32b10640f8d1d1b227c5b1d62d29c836" title="send_i" alt="" coords="508,1855,568,1880"/>
+<area shape="rect" id="node44" href="$parallel_8f90.html#af1800172376b641cdfce90351b7a9004" title="recv_singlei" alt="" coords="492,2016,584,2041"/>
+<area shape="rect" id="node45" href="$parallel_8f90.html#a86da497adcf4f15ed622620c18b369dc" title="recv_i" alt="" coords="509,1805,566,1831"/>
+<area shape="rect" id="node46" href="$locate__regular__points_8f90.html#ad8ac5c31c0eae88ed2fa95ce8b00ee36" title="locate_regular_points" alt="" coords="463,1967,612,1992"/>
+<area shape="rect" id="node41" href="$locate__regular__points_8f90.html#a6b73ab68e88e334f12b544895bd550bc" title="chunk_map" alt="" coords="723,1889,814,1915"/>
+<area shape="rect" id="node47" href="$locate__regular__points_8f90.html#a38c6062fa05487bf5974cc83dfde0f5c" title="hex_nodes2" alt="" coords="721,2037,815,2063"/>
+<area shape="rect" id="node48" href="$recompute__jacobian_8f90.html#a2d6be5537033e45d00e87d78a6c82c77" title="recompute_jacobian" alt="" coords="698,1939,839,1964"/>
+<area shape="rect" id="node49" href="$locate__regular__points_8f90.html#adbfbe212186a86894706910a61865725" title="lagrange_any2" alt="" coords="714,1988,823,2013"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="crm_setup_indexing" name="crm_setup_indexing">
+<area shape="rect" id="node2" href="$get__global_8f90.html#a7e58df12648fe7782b607ee72b672752" title="get_global" alt="" coords="219,55,302,80"/>
+<area shape="rect" id="node8" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="225,104,296,129"/>
+<area shape="rect" id="node11" href="$get__global_8f90.html#a24081045b77231aa8339bee4bd135357" title="get_global_indirect\l_addressing" alt="" coords="194,153,327,192"/>
+<area shape="rect" id="node3" href="$sort__array__coordinates_8f90.html#ad6c4b906f2aed783f97f6a75a6fdd4a5" title="sort_array_coordinates" alt="" coords="375,55,533,80"/>
+<area shape="rect" id="node4" href="$sort__array__coordinates_8f90.html#a6be49ccc7c7001b5c3b56e6baa22e97c" title="heap_sort_multi" alt="" coords="581,55,697,80"/>
+<area shape="rect" id="node5" href="$heap__sort_8f90.html#a3e346c10ddcd1f03e79beab76468ff36" title="heap_sort_siftdown" alt="" coords="745,5,882,31"/>
+<area shape="rect" id="node6" href="$sort__array__coordinates_8f90.html#a81b616b36685cd9d3f371215083b1a5d" title="dswap" alt="" coords="784,55,844,80"/>
+<area shape="rect" id="node7" href="$sort__array__coordinates_8f90.html#a5206068dbfec5bc11a7b8d10271bb6ed" title="iswap" alt="" coords="786,104,841,129"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="414,104,494,129"/>
+<area shape="rect" id="node10" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="596,104,682,129"/>
+</map>

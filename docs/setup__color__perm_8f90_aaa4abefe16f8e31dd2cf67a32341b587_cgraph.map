@@ -1,0 +1,16 @@
+<map id="setup_color" name="setup_color">
+<area shape="rect" id="node2" href="$get__perm__color_8f90.html#a9acf3176134c61ac5cba0a09b73d7bb7" title="get_perm_color_faster" alt="" coords="147,211,302,237"/>
+<area shape="rect" id="node4" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="723,111,812,137"/>
+<area shape="rect" id="node9" href="$create__name__database_8f90.html#a1458d5ed1adf73cdc3c32f0a0807fc71" title="create_name_database" alt="" coords="144,338,305,363"/>
+<area shape="rect" id="node10" href="$write___v_t_k__file_8f90.html#a341b1ab60c068375ee1230ed63637a71" title="write_vtk_data_elem_i" alt="" coords="147,387,301,413"/>
+<area shape="rect" id="node11" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="189,437,260,462"/>
+<area shape="rect" id="node14" href="$parallel_8f90.html#a941d1a54a377aa0aaca7514ab404f91b" title="min_all_i" alt="" coords="187,486,261,511"/>
+<area shape="rect" id="node15" href="$parallel_8f90.html#a8c06ba4d8ed63a58e8841e8b64ad174d" title="max_all_i" alt="" coords="185,535,263,561"/>
+<area shape="rect" id="node3" href="$get__perm__color_8f90.html#a563d5119c0effdc10778979c3b1c00d6" title="get_color_faster" alt="" coords="353,86,470,111"/>
+<area shape="rect" id="node8" href="$get__perm__color_8f90.html#a2e887c8315173196deb48f6cf6151521" title="get_final_perm" alt="" coords="357,237,466,262"/>
+<area shape="rect" id="node5" href="$get__perm__color_8f90.html#a138e5189ca68af9ba375a3eaf006fc8f" title="count_mesh_valence" alt="" coords="523,37,670,62"/>
+<area shape="rect" id="node6" href="$get__perm__color_8f90.html#ae28b0a95e8c71ac133903a9075703962" title="balance_colors_droux" alt="" coords="521,86,672,111"/>
+<area shape="rect" id="node7" href="$get__perm__color_8f90.html#ae631cd1d7cb14a9574db14492af15c61" title="balance_colors_simple" alt="" coords="518,135,675,161"/>
+<area shape="rect" id="node12" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="371,437,452,462"/>
+<area shape="rect" id="node13" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="553,437,640,462"/>
+</map>

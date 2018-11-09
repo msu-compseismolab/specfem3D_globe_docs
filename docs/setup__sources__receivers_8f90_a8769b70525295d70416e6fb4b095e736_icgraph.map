@@ -1,0 +1,5 @@
+<map id="setup_timesteps" name="setup_timesteps">
+<area shape="rect" id="node2" href="$setup__sources__receivers_8f90.html#afe21871cbd5751b9a1a47216ef7189ff" title="setup_sources" alt="" coords="172,5,280,31"/>
+<area shape="rect" id="node3" href="$setup__sources__receivers_8f90.html#a1529c661e94e1a3973bb2d0946ed5f83" title="setup_sources_receivers" alt="" coords="328,5,497,31"/>
+<area shape="rect" id="node4" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="545,5,639,31"/>
+</map>

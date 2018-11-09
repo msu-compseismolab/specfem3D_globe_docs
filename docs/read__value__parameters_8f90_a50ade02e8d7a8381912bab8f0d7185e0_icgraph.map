@@ -1,0 +1,27 @@
+<map id="read_value_integer" name="read_value_integer">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a0f27a8b922f3b4c44530e0c923bf38e5" title="init_mpi" alt="" coords="226,365,293,391"/>
+<area shape="rect" id="node18" href="$read__parameter__file_8f90.html#abd214884b5842f2158736dbd4b1568c4" title="read_parameter_file" alt="" coords="189,677,329,703"/>
+<area shape="rect" id="node3" href="$combine__vol__data_8_f90.html#a8fd5a67759ffb2101952305e19d8db0c" title="combine_vol_data" alt="" coords="403,315,533,340"/>
+<area shape="rect" id="node4" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="859,612,957,637"/>
+<area shape="rect" id="node5" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="861,444,954,469"/>
+<area shape="rect" id="node6" href="$add__model__iso_8f90.html#ac3d59285678e97e168d3a6ed2d03a75d" title="initialize" alt="" coords="434,55,503,80"/>
+<area shape="rect" id="node8" href="$addition__sem_8f90.html#a324469376fedb68318c016fda74f2651" title="addition_sem" alt="" coords="418,467,519,492"/>
+<area shape="rect" id="node9" href="$clip__sem_8f90.html#a954ac7f369918972e2d030c0449c2662" title="clip_sem_globe" alt="" coords="411,516,525,541"/>
+<area shape="rect" id="node10" href="$combine__sem_8f90.html#ad46eead2a8c0029103661cfa4d3b45c3" title="combine_sem_globe" alt="" coords="396,565,540,591"/>
+<area shape="rect" id="node11" href="$convert__model__file__adios_8f90.html#a0412fb5fbcaa9a218bb21b53bb72e2d6" title="convert_model_file\l_adios" alt="" coords="402,615,535,653"/>
+<area shape="rect" id="node12" href="$create__cross__section_8_f90.html#aa60453bd400840f608716a2c3bc7bc9a" title="cross_section" alt="" coords="417,5,520,31"/>
+<area shape="rect" id="node13" href="$difference__sem_8f90.html#a4ad0eecee4e562ef8912f29c6b1292c3" title="difference_sem" alt="" coords="412,104,524,129"/>
+<area shape="rect" id="node14" href="$interpolate__model_8_f90.html#a5d498b55440eaa97251daa50fdc2212c" title="interpolate_model" alt="" coords="405,153,532,179"/>
+<area shape="rect" id="node15" href="$smooth__sem_8_f90.html#ab520a5de461b91e299757a6ca5bc29ca" title="smooth_sem_globe" alt="" coords="399,677,537,703"/>
+<area shape="rect" id="node16" href="$sum__kernels_8_f90.html#aefd110537449bab81a99f09813e2bded" title="sum_kernels_globe" alt="" coords="400,203,537,228"/>
+<area shape="rect" id="node17" href="$sum__preconditioned__kernels_8f90.html#a0fa167e9b364ed662bb69e3487dba9b9" title="sum_preconditioned\l_kernels_globe" alt="" coords="397,252,539,291"/>
+<area shape="rect" id="node7" href="$add__model__iso_8f90.html#a844072b75161f0a06e836e1a78bf9f83" title="add_model" alt="" coords="650,55,738,80"/>
+<area shape="rect" id="node19" href="$read__compute__parameters_8f90.html#a834f551a35dc275050223d6cc275436f" title="read_compute_parameters" alt="" coords="377,727,559,752"/>
+<area shape="rect" id="node20" href="$combine___a_v_s___d_x_8f90.html#a94e3fe25c684956baed5bca038c6114d" title="combine_avs_dx" alt="" coords="633,800,755,825"/>
+<area shape="rect" id="node21" href="$create__movie___a_v_s___d_x_8f90.html#aafb0552f5f29c1e8e470f5ef96688560" title="read_avs_dx_parameters" alt="" coords="608,751,780,776"/>
+<area shape="rect" id="node23" href="$create__movie___g_m_t__global_8f90.html#ad0de4ace8f3d48d3f8364e23e8b2e7c9" title="create_movie_gmt_global" alt="" coords="607,603,781,628"/>
+<area shape="rect" id="node24" href="$create__header__file_8f90.html#a5431fdfe652ee5eae2a73c217752621f" title="xcreate_header_file" alt="" coords="625,701,763,727"/>
+<area shape="rect" id="node25" href="$initialize__mesher_8f90.html#afb8f938c43e41489d153eb6cc2b90de3" title="initialize_mesher" alt="" coords="634,652,754,677"/>
+<area shape="rect" id="node26" href="$initialize__simulation_8f90.html#a4df54f4e2a18386a47efaae76cebf247" title="initialize_simulation" alt="" coords="626,523,762,548"/>
+<area shape="rect" id="node22" href="$create__movie___a_v_s___d_x_8f90.html#af049ffef733993416bfbd295962de422" title="xcreate_movie_avs_dx" alt="" coords="829,751,987,776"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sum_kernel" name="sum_kernel">
+<area shape="rect" id="node2" href="$namespacemanager__adios.html#a73b0afa46e5475dd6f3afd90c490d17a" title="manager_adios::close\l_file_adios" alt="" coords="144,48,295,87"/>
+<area shape="rect" id="node8" href="$sum__kernels_8_f90.html#a23fd2d113bb12226a308f80033e20e2e" title="read_kernel_binary" alt="" coords="152,111,287,136"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#a57feda3298972f729dd050820027b20b" title="sum_all_dp" alt="" coords="175,160,264,185"/>
+<area shape="rect" id="node10" href="$sum__kernels_8_f90.html#af25d7a68cec1823c1d9f481163117dfc" title="write_kernel_binary" alt="" coords="151,209,288,235"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a0e90b72ed9435edc806d698beceb6d66" title="synchronize_all_comm" alt="" coords="343,5,500,31"/>
+<area shape="rect" id="node4" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="386,55,457,80"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#add9a9f2cd05c788763bab4d949b5f40b" title="world_get_comm_self" alt="" coords="346,104,497,129"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="548,55,629,80"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="677,55,763,80"/>
+</map>

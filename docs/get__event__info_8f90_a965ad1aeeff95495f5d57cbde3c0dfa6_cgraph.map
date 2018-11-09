@@ -1,0 +1,7 @@
+<map id="get_event_info_parallel" name="get_event_info_parallel">
+<area shape="rect" id="node2" href="$get__event__info_8f90.html#a08fbcca75e2a433b83a6b1bb30bb9203" title="get_event_info_serial" alt="" coords="213,5,361,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a23388879e66124dffb0dc2fc270eba3d" title="bcast_all_singlei" alt="" coords="227,55,346,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a59dd24da4e156b3dedba4b76f4a80093" title="bcast_all_singledp" alt="" coords="221,104,352,129"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a3655740f522365e704ef82409b9d9fe8" title="bcast_all_singler" alt="" coords="226,153,347,179"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#a4379b4af7df1d0a2dcadec3aa8d0f144" title="bcast_all_ch" alt="" coords="239,203,334,228"/>
+</map>

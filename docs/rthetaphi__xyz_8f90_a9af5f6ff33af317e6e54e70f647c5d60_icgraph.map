@@ -1,0 +1,12 @@
+<map id="lat_2_geocentric_colat_dble" name="lat_2_geocentric_colat_dble">
+<area shape="rect" id="node2" href="$combine___a_v_s___d_x_8f90.html#a94e3fe25c684956baed5bca038c6114d" title="combine_avs_dx" alt="" coords="260,5,381,31"/>
+<area shape="rect" id="node3" href="$locate__receivers_8f90.html#af026aaaac5c93f5993f7d6fa831676df" title="locate_receivers" alt="" coords="261,55,380,80"/>
+<area shape="rect" id="node7" href="$locate__sources_8f90.html#ab946af81aa609b87b7a61502cca375ba" title="locate_sources" alt="" coords="265,104,376,129"/>
+<area shape="rect" id="node9" href="$noise__tomography_8f90.html#ad5246f66444d89f645e4de696e5e7196" title="print_master_distances\l_noise" alt="" coords="241,153,400,192"/>
+<area shape="rect" id="node4" href="$setup__sources__receivers_8f90.html#a3564b238897125a8726abe23aaf0c792" title="setup_receivers" alt="" coords="448,55,563,80"/>
+<area shape="rect" id="node5" href="$setup__sources__receivers_8f90.html#a1529c661e94e1a3973bb2d0946ed5f83" title="setup_sources_receivers" alt="" coords="611,104,781,129"/>
+<area shape="rect" id="node6" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="829,132,922,157"/>
+<area shape="rect" id="node8" href="$setup__sources__receivers_8f90.html#afe21871cbd5751b9a1a47216ef7189ff" title="setup_sources" alt="" coords="452,104,560,129"/>
+<area shape="rect" id="node10" href="$prepare__noise_8f90.html#ac1e44d1921ac589348320e686536baa9" title="prepare_noise" alt="" coords="452,159,559,184"/>
+<area shape="rect" id="node11" href="$prepare__timerun_8_f90.html#a90bdca77e34799e4b184eafee105bd47" title="prepare_timerun" alt="" coords="637,156,756,181"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="setup_sources_precompute_arrays" name="setup_sources_precompute_arrays">
+<area shape="rect" id="node2" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="503,5,574,31"/>
+<area shape="rect" id="node5" href="$setup__sources__receivers_8f90.html#aa81bdbe336b85b23b18f7bb193dde485" title="setup_sources_receivers\l_srcarr" alt="" coords="239,53,409,92"/>
+<area shape="rect" id="node8" href="$setup__sources__receivers_8f90.html#a3de5d7c5b560e27685a74af6a3a47139" title="setup_sources_receivers\l_adjindx" alt="" coords="239,116,409,155"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="680,5,761,31"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="819,5,906,31"/>
+<area shape="rect" id="node6" href="$lagrange__poly_8f90.html#a39932627e6d212a19fe7225b9a8c25e7" title="lagrange_any" alt="" coords="669,84,771,109"/>
+<area shape="rect" id="node7" href="$compute__arrays__source_8f90.html#a786404f7d0914424332ac430baed6b57" title="compute_arrays_source" alt="" coords="457,109,621,135"/>
+</map>

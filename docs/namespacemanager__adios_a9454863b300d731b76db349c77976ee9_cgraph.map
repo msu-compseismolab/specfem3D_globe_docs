@@ -1,0 +1,8 @@
+<map id="manager_adios::initialize_adios" name="manager_adios::initialize_adios">
+<area shape="rect" id="node2" href="$parallel_8f90.html#af9aafd1831ffab5bb90f71c0d82df5a7" title="world_duplicate" alt="" coords="230,5,344,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#aa6ac49a0d296ad4b22eaf807e4d40e17" title="world_rank_comm" alt="" coords="221,55,352,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#ab40105b69cc0851ddeff89077fe800d6" title="world_size" alt="" coords="244,104,329,129"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="528,180,615,205"/>
+<area shape="rect" id="node6" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="251,205,322,231"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="400,205,480,231"/>
+</map>

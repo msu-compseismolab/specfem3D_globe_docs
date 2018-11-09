@@ -1,0 +1,5 @@
+<map id="sum_kernel_pre" name="sum_kernel_pre">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a57feda3298972f729dd050820027b20b" title="sum_all_dp" alt="" coords="170,5,260,31"/>
+<area shape="rect" id="node3" href="$sum__preconditioned__kernels_8f90.html#a108b72e5e388fecdf5b2cdb11c6571e7" title="invert_hess" alt="" coords="170,55,260,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a05bf6da4cef0ad6619b6b93b7cc15626" title="max_allreduce_cr" alt="" coords="308,55,434,80"/>
+</map>

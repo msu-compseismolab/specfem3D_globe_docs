@@ -1,0 +1,10 @@
+<map id="compute_element_att_memory_ic" name="compute_element_att_memory_ic">
+<area shape="rect" id="node2" href="$compute__forces__inner__core___dev_8_f90.html#a7fbd6d187157cd6e5314f21597e898b0" title="compute_forces_inner\l_core_dev" alt="" coords="203,5,356,44"/>
+<area shape="rect" id="node9" href="$compute__forces__inner__core__no_dev_8f90.html#a9fd2299fbf50f79c63b4d968575c4f2a" title="compute_forces_inner\l_core_nodev" alt="" coords="203,68,356,107"/>
+<area shape="rect" id="node3" href="$compute__forces__viscoelastic__calling__routine_8_f90.html#a9fd620f3cfe9a4067343224312d0b131" title="compute_forces_inner_core" alt="" coords="404,44,591,69"/>
+<area shape="rect" id="node4" href="$compute__forces__viscoelastic__calling__routine_8_f90.html#ad861052a974f995b94bb0cab9ec41cca" title="compute_forces_viscoelastic" alt="" coords="639,16,831,41"/>
+<area shape="rect" id="node8" href="$compute__forces__viscoelastic__calling__routine_8_f90.html#a128d40298a0bcc0f380b4b3fc322c32e" title="compute_forces_viscoelastic\l_backward" alt="" coords="639,65,831,104"/>
+<area shape="rect" id="node5" href="$iterate__time_8_f90.html#a1c7956b87b2e085cd32a0c20fb6d29c9" title="iterate_time" alt="" coords="905,20,995,45"/>
+<area shape="rect" id="node7" href="$iterate__time__undoatt_8_f90.html#ac69f6bf2bfb2c82a2d50a79925c40be8" title="iterate_time_undoatt" alt="" coords="879,69,1021,95"/>
+<area shape="rect" id="node6" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="1069,45,1163,71"/>
+</map>

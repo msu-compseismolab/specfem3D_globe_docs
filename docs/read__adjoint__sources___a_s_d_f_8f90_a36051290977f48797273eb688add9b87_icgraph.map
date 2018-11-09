@@ -1,0 +1,5 @@
+<map id="check_adjoint_sources_asdf" name="check_adjoint_sources_asdf">
+<area shape="rect" id="node2" href="$setup__sources__receivers_8f90.html#a3564b238897125a8726abe23aaf0c792" title="setup_receivers" alt="" coords="243,5,358,31"/>
+<area shape="rect" id="node3" href="$setup__sources__receivers_8f90.html#a1529c661e94e1a3973bb2d0946ed5f83" title="setup_sources_receivers" alt="" coords="406,5,576,31"/>
+<area shape="rect" id="node4" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="624,5,717,31"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="write_avs_dx_global_chunks_data" name="write_avs_dx_global_chunks_data">
+<area shape="rect" id="node2" href="$model__prem_8f90.html#a969992110f3107ef7831ac249657d3d3" title="prem_display_outer_core" alt="" coords="213,5,385,31"/>
+<area shape="rect" id="node3" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="633,132,704,157"/>
+<area shape="rect" id="node6" href="$rthetaphi__xyz_8f90.html#a9a2d6558f7f1b34dfd37aa834f59ec97" title="xyz_2_rthetaphi_dble" alt="" coords="225,107,373,132"/>
+<area shape="rect" id="node7" href="$spline__routines_8f90.html#aadd8c5cf711f6176dbdecb5d94ab0a3d" title="spline_evaluation" alt="" coords="237,156,361,181"/>
+<area shape="rect" id="node8" href="$meshfem3_d__models_8_f90.html#abbbe71717d8322ae168b2cb43ab44e26" title="meshfem3d_models_get1d_val" alt="" coords="195,255,402,280"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="752,132,832,157"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="880,132,967,157"/>
+<area shape="rect" id="node9" href="$model__prem_8f90.html#adfe6a7ea14e1b959778d4d6afa9c33b8" title="model_prem_aniso" alt="" coords="450,107,585,132"/>
+<area shape="rect" id="node10" href="$model__prem_8f90.html#a232931965558c30253cb5c05975c899d" title="model_prem_iso" alt="" coords="458,156,577,181"/>
+<area shape="rect" id="node11" href="$model__1dref_8f90.html#a7d14e45d2867ebde7d4196f4176ef8e0" title="model_1dref" alt="" coords="470,205,565,231"/>
+<area shape="rect" id="node12" href="$model__1066a_8f90.html#ae184fda5675c8152f242bdbdbc07a2e6" title="model_1066a" alt="" coords="466,255,569,280"/>
+<area shape="rect" id="node13" href="$model__ak135_8f90.html#ad9f1f7bbe87caa71c001efe65c72603d" title="model_ak135" alt="" coords="467,304,568,329"/>
+<area shape="rect" id="node14" href="$model__iasp91_8f90.html#acab80fdde3f97790feefe16f9f5dd27c" title="model_iasp91" alt="" coords="465,353,570,379"/>
+<area shape="rect" id="node15" href="$model__jp1d_8f90.html#a471e748d068cb1983237b4a066596cca" title="model_jp1d" alt="" coords="472,403,563,428"/>
+<area shape="rect" id="node16" href="$model__sea1d_8f90.html#aea7e3c9550d784cdd81f74682148654c" title="model_sea1d" alt="" coords="467,452,568,477"/>
+</map>

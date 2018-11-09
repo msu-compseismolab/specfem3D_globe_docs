@@ -1,0 +1,51 @@
+<map id="create_meshes" name="create_meshes">
+<area shape="rect" id="node2" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="814,378,903,404"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="621,645,734,670"/>
+<area shape="rect" id="node4" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="823,1146,894,1172"/>
+<area shape="rect" id="node7" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="166,1004,315,1029"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="951,1146,1031,1172"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="1079,1146,1166,1172"/>
+<area shape="rect" id="node8" href="$create__name__database_8f90.html#a1458d5ed1adf73cdc3c32f0a0807fc71" title="create_name_database" alt="" coords="597,328,758,353"/>
+<area shape="rect" id="node9" href="$create__regions__mesh_8_f90.html#a72872452c33325b6077a0390b0188eb9" title="crm_allocate_arrays" alt="" coords="381,757,523,782"/>
+<area shape="rect" id="node10" href="$create__regions__mesh_8_f90.html#a1ffa5a7e331c310eb8e2d906aef5569e" title="crm_setup_layers" alt="" coords="389,1605,515,1630"/>
+<area shape="rect" id="node14" href="$create__regions__elements_8f90.html#a788880ddfdfb83bf130daf86daee55a7" title="create_regions_elements" alt="" coords="366,856,537,881"/>
+<area shape="rect" id="node18" href="$create__regions__mesh_8_f90.html#a7cb021528a38efdd9da7a1c1b65b4e0a" title="crm_setup_indexing" alt="" coords="382,1762,522,1788"/>
+<area shape="rect" id="node21" href="$create__regions__mesh_8_f90.html#ace9fc54b69dda5f0404a6ca5a7e653b2" title="crm_setup_mpi_buffers" alt="" coords="372,708,532,733"/>
+<area shape="rect" id="node25" href="$get__absorb_8f90.html#ac97263e356b3374d3bc8be9de51556db" title="get_absorb" alt="" coords="408,1901,496,1926"/>
+<area shape="rect" id="node27" href="$model__cem_8f90.html#ae44657df4c91db7b7e2305f07f9cb083" title="build_global_coordinates" alt="" coords="367,806,536,832"/>
+<area shape="rect" id="node28" href="$model__cem_8f90.html#a5df5ff1333bade3fe2d1f13f4a2a7ea0" title="write_cem_request" alt="" coords="385,177,519,202"/>
+<area shape="rect" id="node31" href="$create__regions__mesh_8_f90.html#abbf29719cd3ae8a1783d1df9844936ec" title="crm_fill_global_meshes" alt="" coords="372,1102,532,1128"/>
+<area shape="rect" id="node32" href="$check__mesh__resolution_8f90.html#a54d02ffe956536002994cda015a8649b" title="check_mesh_resolution" alt="" coords="371,102,533,128"/>
+<area shape="rect" id="node33" href="$get__jacobian__boundaries_8f90.html#a73dcd7eb03d1dacc8010a45fa1ea26b8" title="get_jacobian_boundaries" alt="" coords="592,1197,762,1222"/>
+<area shape="rect" id="node34" href="$gravity__integrals_8_f90.html#a5dd43bac48044cc7d985c9b7078529e9" title="gravity_observation\l_surface" alt="" coords="609,1246,746,1285"/>
+<area shape="rect" id="node35" href="$create__chunk__buffers_8f90.html#a62d7172a776576857f5e603948f8d9f1" title="create_chunk_buffers" alt="" coords="377,454,527,480"/>
+<area shape="rect" id="node36" href="$create___m_p_i__interfaces_8f90.html#a879f18a72ba6547da565cf896357a37c" title="create_mpi_interfaces" alt="" coords="376,905,528,930"/>
+<area shape="rect" id="node37" href="$setup___m_p_i__interfaces_8f90.html#af92195eba3d17329fb6c16827e76db41" title="setup_mpi_interfaces" alt="" coords="378,1152,526,1177"/>
+<area shape="rect" id="node38" href="$setup__inner__outer_8f90.html#a9956b95eab199365ae555e1ffe0eb172" title="setup_inner_outer" alt="" coords="613,278,742,304"/>
+<area shape="rect" id="node39" href="$setup__color__perm_8f90.html#a48f295db73f91597c204f36726e8822c" title="setup_color_perm" alt="" coords="388,556,516,581"/>
+<area shape="rect" id="node40" href="$create__mass__matrices_8f90.html#ac3640d3c37d9758f2daf3988c101de99" title="create_mass_matrices" alt="" coords="599,1309,755,1334"/>
+<area shape="rect" id="node41" href="$save__arrays__solver__adios_8_f90.html#accdbf75170c5cd6d085e97fefcd739d3" title="Main routine to save the arrays from the mesher to the solver with the help of ADIOS. " alt="" coords="609,1461,746,1500"/>
+<area shape="rect" id="node42" href="$save__arrays__solver_8f90.html#ae1e159aa6c3b51bc9723d362ba11cd79" title="save_arrays_solver" alt="" coords="383,1670,520,1696"/>
+<area shape="rect" id="node43" href="$save__arrays__solver_8f90.html#a574a82101650dad17d43ae47b6799ff9" title="save_arrays_solver_mpi" alt="" coords="369,954,535,980"/>
+<area shape="rect" id="node44" href="$save__arrays__solver__adios_8_f90.html#a8d89e606857eb2c632d3de49f625d946" title="Write boundary conditions (MOHO, 400, 600) to a single ADIOS file. " alt="" coords="373,1969,530,2008"/>
+<area shape="rect" id="node45" href="$save__arrays__solver_8f90.html#a26e558bba74b7b83498853f38593b166" title="save_arrays_boundary" alt="" coords="373,1454,530,1480"/>
+<area shape="rect" id="node46" href="$write___a_v_s___d_x__output_8f90.html#a55814c9a9ad7b1f25aff529fb2da86a1" title="write_avs_dx_output" alt="" coords="380,1004,524,1029"/>
+<area shape="rect" id="node47" href="$create__regions__mesh_8_f90.html#a6a54e982b696fb767199803d94119079" title="crm_free_mpi_arrays" alt="" coords="378,1053,526,1078"/>
+<area shape="rect" id="node48" href="$compute__volumes__and__areas_8_f90.html#a09a627486b2fccbdb0cc91f58ca8e377" title="compute_volumes_and\l_areas" alt="" coords="598,429,757,468"/>
+<area shape="rect" id="node49" href="$compute__volumes__and__areas_8_f90.html#a08f6c105dc28fc4546607cece58b4a8a" title="compute_earth_mass" alt="" coords="377,1405,527,1430"/>
+<area shape="rect" id="node50" href="$gravity__integrals_8_f90.html#aad280644193f6fd69608acdb58dff7d3" title="gravity_compute_integrals" alt="" coords="363,1504,540,1529"/>
+<area shape="rect" id="node11" href="$initialize__layers_8f90.html#a8debd2f0759534516221a31e68ef2dd0" title="initialize_layers" alt="" coords="621,1524,733,1549"/>
+<area shape="rect" id="node12" href="$stretching__function_8f90.html#a59d6c774fe280eff2b4bae26bc53aa57" title="stretching_function\l_regional" alt="" coords="611,1573,744,1612"/>
+<area shape="rect" id="node13" href="$stretching__function_8f90.html#a81a840ee4fad8f7ce45ecc205e0f6f33" title="stretching_function" alt="" coords="611,1636,744,1661"/>
+<area shape="rect" id="node15" href="$create__regular__elements_8f90.html#a69b69e5b633f2f4d14161b4d96ca3e8c" title="create_regular_elements" alt="" coords="593,946,762,972"/>
+<area shape="rect" id="node16" href="$create__doubling__elements_8f90.html#a6aa046060343b6d8e6b93c70325621ab" title="create_doubling_elements" alt="" coords="588,996,766,1021"/>
+<area shape="rect" id="node17" href="$create__central__cube_8f90.html#a9f42c053056495450cb7b34a14bd3750" title="create_central_cube" alt="" coords="606,1045,748,1070"/>
+<area shape="rect" id="node19" href="$get__global_8f90.html#a7e58df12648fe7782b607ee72b672752" title="get_global" alt="" coords="636,1788,719,1813"/>
+<area shape="rect" id="node20" href="$get__global_8f90.html#a24081045b77231aa8339bee4bd135357" title="get_global_indirect\l_addressing" alt="" coords="611,1837,744,1876"/>
+<area shape="rect" id="node22" href="$get___m_p_i__cutplanes__xi_8f90.html#aa1b85dfcf912e857af4ea049d2fa2192" title="get_mpi_cutplanes_xi" alt="" coords="602,694,752,720"/>
+<area shape="rect" id="node23" href="$get___m_p_i__cutplanes__eta_8f90.html#a5a368c0646b65a91b3b05681962e0778" title="get_mpi_cutplanes_eta" alt="" coords="598,845,757,870"/>
+<area shape="rect" id="node24" href="$get___m_p_i__1_d__buffers_8f90.html#aec12380733dac1cfdc805968b8682117" title="get_mpi_1d_buffers" alt="" coords="608,796,747,821"/>
+<area shape="rect" id="node26" href="$get__absorb__adios_8_f90.html#aa8fa3412afede91d3c1f4ae43fa1d91b" title="Write Stacey boundary conditions to a single file using ADIOS. " alt="" coords="614,1952,741,1977"/>
+<area shape="rect" id="node29" href="$parallel_8f90.html#ab40105b69cc0851ddeff89077fe800d6" title="world_size" alt="" coords="635,128,719,153"/>
+<area shape="rect" id="node30" href="$parallel_8f90.html#af9aafd1831ffab5bb90f71c0d82df5a7" title="world_duplicate" alt="" coords="620,177,734,202"/>
+</map>

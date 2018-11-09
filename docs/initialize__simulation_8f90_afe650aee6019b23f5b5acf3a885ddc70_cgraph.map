@@ -1,0 +1,6 @@
+<map id="initialize_gpu" name="initialize_gpu">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="152,5,265,31"/>
+<area shape="rect" id="node3" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="164,55,253,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a941d1a54a377aa0aaca7514ab404f91b" title="min_all_i" alt="" coords="171,104,245,129"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a8c06ba4d8ed63a58e8841e8b64ad174d" title="max_all_i" alt="" coords="170,153,247,179"/>
+</map>

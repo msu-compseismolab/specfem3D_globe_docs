@@ -1,0 +1,17 @@
+<map id="dswap" name="dswap">
+<area shape="rect" id="node2" href="$sort__array__coordinates_8f90.html#a6be49ccc7c7001b5c3b56e6baa22e97c" title="heap_sort_multi" alt="" coords="113,80,229,105"/>
+<area shape="rect" id="node3" href="$sort__array__coordinates_8f90.html#ad6c4b906f2aed783f97f6a75a6fdd4a5" title="sort_array_coordinates" alt="" coords="277,80,435,105"/>
+<area shape="rect" id="node4" href="$create__chunk__buffers_8f90.html#a62d7172a776576857f5e603948f8d9f1" title="create_chunk_buffers" alt="" coords="1089,5,1238,31"/>
+<area shape="rect" id="node8" href="$get___m_p_i__interfaces_8f90.html#a0b2f936d6032866099564160adc5fa2c" title="sort_mpi_interface" alt="" coords="483,80,614,105"/>
+<area shape="rect" id="node14" href="$get__global_8f90.html#a7e58df12648fe7782b607ee72b672752" title="get_global" alt="" coords="507,129,590,155"/>
+<area shape="rect" id="node5" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="1286,80,1436,105"/>
+<area shape="rect" id="node6" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="1484,80,1596,105"/>
+<area shape="rect" id="node7" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1644,80,1742,105"/>
+<area shape="rect" id="node9" href="$get___m_p_i__interfaces_8f90.html#ad9ef507fb96aeba8a55a5a6191d608fc" title="get_mpi_interfaces" alt="" coords="674,80,808,105"/>
+<area shape="rect" id="node10" href="$setup___m_p_i__interfaces_8f90.html#a520c6f881fd54a8d544ae893686eee51" title="setup_mpi_interfaces_cm" alt="" coords="868,31,1041,56"/>
+<area shape="rect" id="node12" href="$setup___m_p_i__interfaces_8f90.html#a4eac835be62f2e96fa837020daec8a0b" title="setup_mpi_interfaces_oc" alt="" coords="870,80,1039,105"/>
+<area shape="rect" id="node13" href="$setup___m_p_i__interfaces_8f90.html#af83adcb0df3d28d65d98ef1bd1988336" title="setup_mpi_interfaces_ic" alt="" coords="872,129,1037,155"/>
+<area shape="rect" id="node11" href="$setup___m_p_i__interfaces_8f90.html#af92195eba3d17329fb6c16827e76db41" title="setup_mpi_interfaces" alt="" coords="1090,80,1238,105"/>
+<area shape="rect" id="node15" href="$create__movie___a_v_s___d_x_8f90.html#af049ffef733993416bfbd295962de422" title="xcreate_movie_avs_dx" alt="" coords="662,129,820,155"/>
+<area shape="rect" id="node16" href="$create__regions__mesh_8_f90.html#a7cb021528a38efdd9da7a1c1b65b4e0a" title="crm_setup_indexing" alt="" coords="1093,155,1234,180"/>
+</map>

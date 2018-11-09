@@ -1,0 +1,27 @@
+<map id="compute_forces_acoustic_backward" name="compute_forces_acoustic_backward">
+<area shape="rect" id="node2" href="$compute__forces__acoustic__calling__routine_8_f90.html#a2efd72775625209c14d8910f690a5964" title="compute_forces_outer_core" alt="" coords="234,116,422,141"/>
+<area shape="rect" id="node8" href="$assemble___m_p_i__scalar_8f90.html#ad11068488e2b3ec0c1e533ddbba272f1" title="assemble_mpi_scalar\l_send_gpu" alt="" coords="253,165,403,204"/>
+<area shape="rect" id="node11" href="$compute__stacey__outer__core_8f90.html#a2c3dc7cebde4ce7f566a49ad8157c26b" title="compute_stacey_oc_backward\l_undoatt" alt="" coords="226,277,430,316"/>
+<area shape="rect" id="node12" href="$compute__stacey__outer__core_8f90.html#a974d940633fbb5e2ff06684696d94a60" title="compute_stacey_oc_backward" alt="" coords="226,340,430,365"/>
+<area shape="rect" id="node13" href="$compute__coupling_8f90.html#ab836058ffd8e77fa573cf9de513a8459" title="compute_coupling_fluid\l_backward" alt="" coords="247,389,409,428"/>
+<area shape="rect" id="node17" href="$assemble___m_p_i__scalar_8f90.html#a2b991a01235ef92c51a5f7722d9e9b29" title="assemble_mpi_scalar_s" alt="" coords="246,228,410,253"/>
+<area shape="rect" id="node18" href="$assemble___m_p_i__scalar_8f90.html#a3cd3feb70ba44098c8dd07a2a5b18a7b" title="assemble_mpi_scalar_w" alt="" coords="244,452,412,477"/>
+<area shape="rect" id="node20" href="$assemble___m_p_i__scalar_8f90.html#a13fb5e3e38346d54f05e292fe685053f" title="transfer_boundarypot\l_to_device" alt="" coords="254,501,402,540"/>
+<area shape="rect" id="node21" href="$assemble___m_p_i__scalar_8f90.html#a13c14fa6caf12bc79ede6aaad309a274" title="assemble_mpi_scalar\l_write_gpu" alt="" coords="253,564,403,603"/>
+<area shape="rect" id="node22" href="$multiply__arrays__source_8f90.html#ab5b7c529a0cbe86e8db4f3f36d19950c" title="multiply_accel_acoustic" alt="" coords="247,627,409,652"/>
+<area shape="rect" id="node23" href="$update__displacement___l_d_d_r_k_8f90.html#abc1a0a483896d5db0a96c0aa7369974d" title="update_veloc_acoustic\l_lddrk_backward" alt="" coords="250,676,407,715"/>
+<area shape="rect" id="node25" href="$update__displacement___newmark_8f90.html#a403d156c192c527f0cd6e124d7618537" title="update_veloc_acoustic\l_newmark_backward" alt="" coords="250,739,407,777"/>
+<area shape="rect" id="node3" href="$compute__forces__outer__core___dev_8_f90.html#a51c6f4ed1ccb5556ef1c63b6cf6922c6" title="compute_forces_outer\l_core_dev" alt="" coords="498,48,652,87"/>
+<area shape="rect" id="node7" href="$compute__forces__outer__core__no_dev_8f90.html#a5ba8fc4ed6ad65f10749fabafa1b6566" title="compute_forces_outer\l_core_nodev" alt="" coords="498,111,652,149"/>
+<area shape="rect" id="node4" href="$intgrl_8f90.html#a949c66a37b3b8091cbf4b01837c285c3" title="deriv" alt="" coords="767,5,818,31"/>
+<area shape="rect" id="node5" href="$compute__forces__outer__core___dev_8_f90.html#aa544c9582e52a931317a8ac00eca1566" title="mxm5_single" alt="" coords="743,55,842,80"/>
+<area shape="rect" id="node6" href="$compute__forces__outer__core___dev_8_f90.html#a89184fadbbd1a93910dc863e3b3b5903" title="mxm5_3dmat_single" alt="" coords="720,104,865,129"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#acda26d10b6c0db7246987e007e83aaf6" title="isend_cr" alt="" coords="539,175,611,200"/>
+<area shape="rect" id="node10" href="$parallel_8f90.html#aa004ae1d38f747c8bce06cdf8ce173d3" title="irecv_cr" alt="" coords="541,225,609,251"/>
+<area shape="rect" id="node14" href="$compute__coupling_8f90.html#a6e77311ff84ae1032f07c7ca2162c844" title="compute_coupling_fluid\l_cmb_icb" alt="" coords="495,333,656,372"/>
+<area shape="rect" id="node15" href="$compute__coupling_8f90.html#aba6fd32fdb2405c44726e9ec98137afe" title="compute_coupling_fluid_cmb" alt="" coords="478,396,672,421"/>
+<area shape="rect" id="node16" href="$compute__coupling_8f90.html#a2d812314cf3a98f6c83fdf5d60548937" title="compute_coupling_fluid_icb" alt="" coords="482,445,668,471"/>
+<area shape="rect" id="node19" href="$parallel_8f90.html#aa85c0adccc06355cbf54707717931e91" title="wait_req" alt="" coords="539,508,611,533"/>
+<area shape="rect" id="node24" href="$update__displacement___l_d_d_r_k_8f90.html#a256c5f770eb2154e5182a9600ad07501" title="update_acoustic_lddrk" alt="" coords="498,683,653,708"/>
+<area shape="rect" id="node26" href="$update__displacement___newmark_8f90.html#a49071a7cf34d37e17246bfa5eca20dbb" title="update_veloc_acoustic" alt="" coords="497,745,654,771"/>
+</map>

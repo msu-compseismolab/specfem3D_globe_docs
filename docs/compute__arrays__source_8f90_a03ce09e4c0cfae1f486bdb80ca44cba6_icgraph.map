@@ -1,0 +1,10 @@
+<map id="compute_arrays_source_adjoint" name="compute_arrays_source_adjoint">
+<area shape="rect" id="node2" href="$read__adjoint__sources_8f90.html#ae4c6983c790b8b52c285aae830fb1315" title="read_adjoint_sources\l_local" alt="" coords="218,24,367,63"/>
+<area shape="rect" id="node3" href="$file__io__threads_8c.html#a723f1388d1f79a4a54c566eec58249de" title="FC_FUNC_" alt="" coords="443,5,534,31"/>
+<area shape="rect" id="node4" href="$read__adjoint__sources_8f90.html#a44b2e2b1a1d3b2bd5923249097a41493" title="read_adjoint_sources" alt="" coords="415,55,563,80"/>
+<area shape="rect" id="node5" href="$compute__add__sources_8f90.html#a82558d5fb7bd57a070786a6813c85a9a" title="compute_add_sources\l_adjoint" alt="" coords="611,48,768,87"/>
+<area shape="rect" id="node6" href="$compute__forces__viscoelastic__calling__routine_8_f90.html#ad861052a974f995b94bb0cab9ec41cca" title="compute_forces_viscoelastic" alt="" coords="816,55,1007,80"/>
+<area shape="rect" id="node7" href="$iterate__time_8_f90.html#a1c7956b87b2e085cd32a0c20fb6d29c9" title="iterate_time" alt="" coords="1081,29,1172,55"/>
+<area shape="rect" id="node9" href="$iterate__time__undoatt_8_f90.html#ac69f6bf2bfb2c82a2d50a79925c40be8" title="iterate_time_undoatt" alt="" coords="1055,79,1198,104"/>
+<area shape="rect" id="node8" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="1246,55,1339,80"/>
+</map>

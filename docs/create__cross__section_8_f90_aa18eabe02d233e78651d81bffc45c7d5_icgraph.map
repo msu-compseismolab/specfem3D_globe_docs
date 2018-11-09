@@ -1,0 +1,5 @@
+<map id="get_area_spherical_cell" name="get_area_spherical_cell">
+<area shape="rect" id="node2" href="$create__cross__section_8_f90.html#a6a35ba2dc5564e0b0f4b7879e76a0a01" title="get_regular_lat_lon\l_cell_area" alt="" coords="216,5,351,44"/>
+<area shape="rect" id="node3" href="$create__cross__section_8_f90.html#a51c6da1c8d5c24504fc4776f0a9a2d13" title="get_cross_section_avg" alt="" coords="399,12,557,37"/>
+<area shape="rect" id="node4" href="$create__cross__section_8_f90.html#aa60453bd400840f608716a2c3bc7bc9a" title="cross_section" alt="" coords="605,12,708,37"/>
+</map>

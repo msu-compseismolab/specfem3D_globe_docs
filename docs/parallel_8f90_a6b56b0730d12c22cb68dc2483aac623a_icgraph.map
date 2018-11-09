@@ -1,0 +1,8 @@
+<map id="gather_all_i" name="gather_all_i">
+<area shape="rect" id="node2" href="$locate__receivers_8f90.html#af026aaaac5c93f5993f7d6fa831676df" title="locate_receivers" alt="" coords="144,5,262,31"/>
+<area shape="rect" id="node6" href="$locate__sources_8f90.html#ab946af81aa609b87b7a61502cca375ba" title="locate_sources" alt="" coords="147,55,258,80"/>
+<area shape="rect" id="node3" href="$setup__sources__receivers_8f90.html#a3564b238897125a8726abe23aaf0c792" title="setup_receivers" alt="" coords="310,5,425,31"/>
+<area shape="rect" id="node4" href="$setup__sources__receivers_8f90.html#a1529c661e94e1a3973bb2d0946ed5f83" title="setup_sources_receivers" alt="" coords="473,31,643,56"/>
+<area shape="rect" id="node5" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="691,31,784,56"/>
+<area shape="rect" id="node7" href="$setup__sources__receivers_8f90.html#afe21871cbd5751b9a1a47216ef7189ff" title="setup_sources" alt="" coords="314,55,422,80"/>
+</map>

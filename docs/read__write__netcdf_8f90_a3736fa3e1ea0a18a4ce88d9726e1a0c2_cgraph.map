@@ -1,0 +1,6 @@
+<map id="write_kernel_netcdf" name="write_kernel_netcdf">
+<area shape="rect" id="node2" href="$parallel_8f90.html#ab40105b69cc0851ddeff89077fe800d6" title="world_size" alt="" coords="216,5,301,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#af9aafd1831ffab5bb90f71c0d82df5a7" title="world_duplicate" alt="" coords="201,55,315,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a4dcda421545c8b3432f5e55098d4cd76" title="world_get_info_null" alt="" coords="190,104,327,129"/>
+<area shape="rect" id="node5" href="$model__cem_8f90.html#a83b4d4ff2d6f6d44cfe624fcf955ab90" title="checknc" alt="" coords="223,153,294,179"/>
+</map>

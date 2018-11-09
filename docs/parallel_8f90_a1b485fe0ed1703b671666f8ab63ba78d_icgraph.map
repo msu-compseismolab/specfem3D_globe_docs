@@ -1,0 +1,10 @@
+<map id="sendrecv_cr" name="sendrecv_cr">
+<area shape="rect" id="node2" href="$assemble___m_p_i__scalar__mesh_8f90.html#ad6f1b14a9fa4316d08751a817882fcdc" title="assemble_mpi_scalar\l_block" alt="" coords="147,48,298,87"/>
+<area shape="rect" id="node3" href="$setup___m_p_i__interfaces_8f90.html#a520c6f881fd54a8d544ae893686eee51" title="setup_mpi_interfaces_cm" alt="" coords="346,5,519,31"/>
+<area shape="rect" id="node8" href="$setup___m_p_i__interfaces_8f90.html#a4eac835be62f2e96fa837020daec8a0b" title="setup_mpi_interfaces_oc" alt="" coords="347,55,517,80"/>
+<area shape="rect" id="node9" href="$setup___m_p_i__interfaces_8f90.html#af83adcb0df3d28d65d98ef1bd1988336" title="setup_mpi_interfaces_ic" alt="" coords="350,104,515,129"/>
+<area shape="rect" id="node4" href="$setup___m_p_i__interfaces_8f90.html#af92195eba3d17329fb6c16827e76db41" title="setup_mpi_interfaces" alt="" coords="567,55,715,80"/>
+<area shape="rect" id="node5" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="763,55,912,80"/>
+<area shape="rect" id="node6" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="960,55,1073,80"/>
+<area shape="rect" id="node7" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1121,55,1219,80"/>
+</map>

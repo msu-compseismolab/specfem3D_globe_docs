@@ -1,0 +1,5 @@
+<map id="assemble_mpi_central_cube_block" name="assemble_mpi_central_cube_block">
+<area shape="rect" id="node2" href="$parallel_8f90.html#add579eaaaa143ef0891b91e553c57eef" title="recv_dp" alt="" coords="223,5,291,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#ab7692f76fed1056c66a5fe7d6cd41b3c" title="send_dp" alt="" coords="221,55,293,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#acc57c1849878b70f06aaffb37c9e4144" title="sendrecv_dp" alt="" coords="208,104,306,129"/>
+</map>

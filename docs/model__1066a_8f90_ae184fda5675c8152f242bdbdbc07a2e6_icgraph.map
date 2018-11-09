@@ -1,0 +1,20 @@
+<map id="model_1066a" name="model_1066a">
+<area shape="rect" id="node2" href="$meshfem3_d__models_8_f90.html#abbbe71717d8322ae168b2cb43ab44e26" title="meshfem3d_models_get1d_val" alt="" coords="155,196,362,221"/>
+<area shape="rect" id="node3" href="$get__model_8_f90.html#ac07f780f374ff715837539fe3bbf4981" title="get_model" alt="" coords="462,5,545,31"/>
+<area shape="rect" id="node12" href="$write___a_v_s___d_x__global__chunks__data_8f90.html#ae83af0c0c51143941173268014a10911" title="write_avs_dx_global\l_chunks_data" alt="" coords="671,115,813,153"/>
+<area shape="rect" id="node14" href="$namespaceavs__dx__global__chunks__mod.html#adf6dccd8d3671f5661681e49a929e701" title="avs_dx_global_chunks\l_mod::prepare_avs_dx\l_global_chunks_data_adios" alt="" coords="410,107,597,159"/>
+<area shape="rect" id="node16" href="$write___a_v_s___d_x__global__faces__data_8f90.html#aa794c3ae8b07824249d485940a12961c" title="write_avs_dx_global\l_faces_data" alt="" coords="671,269,813,308"/>
+<area shape="rect" id="node17" href="$namespaceavs__dx__global__faces__mod.html#a502827eb8a195ee75d3c90c8a0d45e24" title="avs_dx_global_faces\l_mod::prepare_avs_dx\l_global_faces_data_adios" alt="" coords="415,183,592,235"/>
+<area shape="rect" id="node18" href="$write___a_v_s___d_x__surface__data_8f90.html#afb25992f3fe6c1f3dc77c5fbde2717f5" title="write_avs_dx_surface_data" alt="" coords="650,368,834,393"/>
+<area shape="rect" id="node19" href="$namespaceavs__dx__surface__mod.html#ab65fb5ef781e58a9913ce2c5d0fb0204" title="avs_dx_surface_mod\l::prepare_avs_dx_surfaces\l_data_adios" alt="" coords="412,259,595,311"/>
+<area shape="rect" id="node4" href="$compute__element__properties_8f90.html#abcb9ccb6c21593c418b18ae53cfcc403" title="compute_element_properties" alt="" coords="645,41,839,67"/>
+<area shape="rect" id="node5" href="$create__central__cube_8f90.html#a9f42c053056495450cb7b34a14bd3750" title="create_central_cube" alt="" coords="905,29,1047,55"/>
+<area shape="rect" id="node10" href="$create__doubling__elements_8f90.html#a6aa046060343b6d8e6b93c70325621ab" title="create_doubling_elements" alt="" coords="887,79,1065,104"/>
+<area shape="rect" id="node11" href="$create__regular__elements_8f90.html#a69b69e5b633f2f4d14161b4d96ca3e8c" title="create_regular_elements" alt="" coords="891,128,1060,153"/>
+<area shape="rect" id="node6" href="$create__regions__elements_8f90.html#a788880ddfdfb83bf130daf86daee55a7" title="create_regions_elements" alt="" coords="1113,109,1284,135"/>
+<area shape="rect" id="node7" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="1332,147,1481,172"/>
+<area shape="rect" id="node8" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="1529,147,1642,172"/>
+<area shape="rect" id="node9" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1690,147,1787,172"/>
+<area shape="rect" id="node13" href="$write___a_v_s___d_x__output_8f90.html#a55814c9a9ad7b1f25aff529fb2da86a1" title="write_avs_dx_output" alt="" coords="904,196,1047,221"/>
+<area shape="rect" id="node15" href="$write___a_v_s___d_x__output__adios_8f90.html#a5291dc20f2daa1659613ba126534ff48" title="write_avs_dx_output\l_adios" alt="" coords="670,189,814,228"/>
+</map>

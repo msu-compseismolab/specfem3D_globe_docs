@@ -1,0 +1,6 @@
+<map id="get_mpi_1d_buffers" name="get_mpi_1d_buffers">
+<area shape="rect" id="node2" href="$create__regions__mesh_8_f90.html#ace9fc54b69dda5f0404a6ca5a7e653b2" title="crm_setup_mpi_buffers" alt="" coords="192,5,353,31"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="401,5,550,31"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="598,5,711,31"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="759,5,856,31"/>
+</map>

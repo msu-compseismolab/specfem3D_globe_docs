@@ -1,0 +1,14 @@
+<map id="get_timestep_and_layers" name="get_timestep_and_layers">
+<area shape="rect" id="node2" href="$auto__ner_8f90.html#ac91d73c74931c2b4686b80d86a365542" title="auto_attenuation_periods" alt="" coords="224,31,395,56"/>
+<area shape="rect" id="node3" href="$auto__ner_8f90.html#ac5f26e55f953d0beeafd12301b163dc4" title="auto_ner" alt="" coords="273,80,347,105"/>
+<area shape="rect" id="node13" href="$auto__ner_8f90.html#a3e316c474528a117e194b21b1466bb9b" title="auto_time_stepping" alt="" coords="241,129,378,155"/>
+<area shape="rect" id="node4" href="$get__model__parameters_8_f90.html#aaa6b999c82fa8ac89d636a52003fe278" title="get_model_parameters\l_radii" alt="" coords="443,17,602,56"/>
+<area shape="rect" id="node5" href="$auto__ner_8f90.html#a64db8ee93b5e014201915f14d37d8f22" title="find_r_central_cube" alt="" coords="453,80,592,105"/>
+<area shape="rect" id="node12" href="$auto__ner_8f90.html#aeadd6b599371e9b67a45778070540ea0" title="auto_optimal_ner" alt="" coords="461,129,585,155"/>
+<area shape="rect" id="node6" href="$auto__ner_8f90.html#ac583acebfc0c908532e6b34658b5c57b" title="compute_nex" alt="" coords="665,5,767,31"/>
+<area shape="rect" id="node7" href="$auto__ner_8f90.html#a7f873a82d15f7a8dcd31b67e15ef7082" title="compute_ic_mesh" alt="" coords="651,55,781,80"/>
+<area shape="rect" id="node10" href="$auto__ner_8f90.html#a27d4069c8dfa00e000a6cda28226cf19" title="get_element" alt="" coords="669,104,764,129"/>
+<area shape="rect" id="node11" href="$auto__ner_8f90.html#aeb73f7319f1961487afd9eeee4716a10" title="get_size_min_max" alt="" coords="650,153,782,179"/>
+<area shape="rect" id="node8" href="$auto__ner_8f90.html#aa479e4e85181ce3e432b1cd0c9204418" title="compute_coordinate" alt="" coords="830,27,973,52"/>
+<area shape="rect" id="node9" href="$auto__ner_8f90.html#a182c94a0e780877b162067545d97bbfb" title="compute_coordinate\l_central_cube" alt="" coords="830,76,973,115"/>
+</map>

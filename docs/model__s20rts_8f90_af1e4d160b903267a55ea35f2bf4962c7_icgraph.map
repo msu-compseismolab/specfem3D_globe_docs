@@ -1,0 +1,7 @@
+<map id="s20rts_splhsetup" name="s20rts_splhsetup">
+<area shape="rect" id="node2" href="$model__s20rts_8f90.html#aa49be9d3cb31e10095f8fede7b36c8ff" title="read_model_s20rts" alt="" coords="175,5,311,31"/>
+<area shape="rect" id="node3" href="$model__s20rts_8f90.html#ada8d45505339acda2a2a125c6ade36da" title="model_s20rts_broadcast" alt="" coords="359,5,526,31"/>
+<area shape="rect" id="node4" href="$meshfem3_d__models_8_f90.html#aeb252910b7cf65ec73ebb752107c68bb" title="meshfem3d_models_broadcast" alt="" coords="574,5,782,31"/>
+<area shape="rect" id="node5" href="$setup__model_8f90.html#a7aae8309e6f193c5a076e01ebd4f92a9" title="setup_model" alt="" coords="830,5,927,31"/>
+<area shape="rect" id="node6" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="975,5,1073,31"/>
+</map>

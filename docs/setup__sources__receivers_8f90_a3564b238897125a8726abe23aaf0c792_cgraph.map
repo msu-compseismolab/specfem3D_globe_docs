@@ -1,0 +1,31 @@
+<map id="setup_receivers" name="setup_receivers">
+<area shape="rect" id="node2" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="456,7,544,32"/>
+<area shape="rect" id="node3" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="465,56,536,82"/>
+<area shape="rect" id="node6" href="$locate__receivers_8f90.html#af026aaaac5c93f5993f7d6fa831676df" title="locate_receivers" alt="" coords="204,382,323,407"/>
+<area shape="rect" id="node24" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="443,899,557,924"/>
+<area shape="rect" id="node27" href="$read__adjoint__sources___a_s_d_f_8f90.html#a36051290977f48797273eb688add9b87" title="check_adjoint_sources_asdf" alt="" coords="169,108,358,134"/>
+<area shape="rect" id="node28" href="$read__adjoint__sources_8f90.html#a9f3f5e70bc0cd1a72fd97105b6dd90c9" title="check_adjoint_sources" alt="" coords="185,158,342,183"/>
+<area shape="rect" id="node29" href="$parallel_8f90.html#a67e3af0f0d939758217cd08ec4f95978" title="sum_all_i" alt="" coords="225,483,302,508"/>
+<area shape="rect" id="node30" href="$parallel_8f90.html#ad51c1b8905c3ebba6cd76ed7b657222a" title="gather_all_singlei" alt="" coords="201,532,326,558"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="670,56,751,82"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="885,56,972,82"/>
+<area shape="rect" id="node7" href="$hex__nodes_8f90.html#ae07f707d9b9719a0c2f6d5b86bee639d" title="hex_nodes" alt="" coords="457,751,543,776"/>
+<area shape="rect" id="node8" href="$parallel_8f90.html#a7e2e1949a587d097e6cd78b97f278eb5" title="bcast_all_ch_array" alt="" coords="433,800,567,826"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#a597577d7b2d03049529aec68ddf973d8" title="bcast_all_dp" alt="" coords="452,850,548,875"/>
+<area shape="rect" id="node10" href="$rthetaphi__xyz_8f90.html#af3ed048383b73e515e352692c523ccc8" title="xyz_2_latlon_minmax" alt="" coords="425,155,575,180"/>
+<area shape="rect" id="node11" href="$rthetaphi__xyz_8f90.html#ab38048ac848cabe5ca2bb2fd39b3aa7d" title="xyz_2_rlatlon_dble" alt="" coords="644,206,776,231"/>
+<area shape="rect" id="node13" href="$reduce_8f90.html#a9759e908a22dc5603fa4394a09fc996b" title="reduce" alt="" coords="898,255,960,280"/>
+<area shape="rect" id="node15" href="$rthetaphi__xyz_8f90.html#a9af5f6ff33af317e6e54e70f647c5d60" title="lat_2_geocentric_colat_dble" alt="" coords="406,307,594,332"/>
+<area shape="rect" id="node16" href="$model__topo__bathy_8f90.html#abcd25c844d4d671def57035eebe09bf8" title="get_topo_bathy" alt="" coords="443,356,557,382"/>
+<area shape="rect" id="node17" href="$spline__routines_8f90.html#aadd8c5cf711f6176dbdecb5d94ab0a3d" title="spline_evaluation" alt="" coords="438,406,562,431"/>
+<area shape="rect" id="node18" href="$locate__receivers_8f90.html#a468e3e265c9e9f6c09f187bf350a3242" title="heap_sort_distances" alt="" coords="428,455,572,480"/>
+<area shape="rect" id="node20" href="$write__seismograms_8f90.html#a51c1acfe46e81f6baee28db417367c2c" title="band_instrument_code" alt="" coords="422,106,579,131"/>
+<area shape="rect" id="node21" href="$recompute__jacobian_8f90.html#a2d6be5537033e45d00e87d78a6c82c77" title="recompute_jacobian" alt="" coords="429,504,571,530"/>
+<area shape="rect" id="node22" href="$parallel_8f90.html#a6b56b0730d12c22cb68dc2483aac623a" title="gather_all_i" alt="" coords="455,554,545,579"/>
+<area shape="rect" id="node23" href="$parallel_8f90.html#a79a5f2dc536b15f042ba78422a4549c6" title="gather_all_dp" alt="" coords="449,603,551,628"/>
+<area shape="rect" id="node25" href="$parallel_8f90.html#a23388879e66124dffb0dc2fc270eba3d" title="bcast_all_singlei" alt="" coords="440,652,560,678"/>
+<area shape="rect" id="node26" href="$parallel_8f90.html#a0ef479c405030e9e6387a149a94a61b4" title="bcast_all_i" alt="" coords="458,702,542,727"/>
+<area shape="rect" id="node12" href="$rthetaphi__xyz_8f90.html#a9a2d6558f7f1b34dfd37aa834f59ec97" title="xyz_2_rthetaphi_dble" alt="" coords="855,156,1003,182"/>
+<area shape="rect" id="node14" href="$rthetaphi__xyz_8f90.html#a606ed866ba0717c1a16bfe88714bc93c" title="geocentric_2_geographic_dble" alt="" coords="827,206,1030,231"/>
+<area shape="rect" id="node19" href="$heap__sort_8f90.html#a3e346c10ddcd1f03e79beab76468ff36" title="heap_sort_siftdown" alt="" coords="642,455,779,480"/>
+</map>

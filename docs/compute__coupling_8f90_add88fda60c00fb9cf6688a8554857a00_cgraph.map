@@ -1,0 +1,5 @@
+<map id="compute_coupling_solid" name="compute_coupling_solid">
+<area shape="rect" id="node2" href="$compute__coupling_8f90.html#aecf265f85bed18b3a0edc554e9d1982d" title="compute_coupling_cmb\l_icb_fluid" alt="" coords="218,5,380,44"/>
+<area shape="rect" id="node3" href="$compute__coupling_8f90.html#a50a85ee6b48d55bf23d14207a035847a" title="compute_coupling_cmb\l_fluid" alt="" coords="218,68,380,107"/>
+<area shape="rect" id="node4" href="$compute__coupling_8f90.html#a750ec9856ec923a77b357655d340d3a8" title="compute_coupling_icb\l_fluid" alt="" coords="222,131,376,169"/>
+</map>

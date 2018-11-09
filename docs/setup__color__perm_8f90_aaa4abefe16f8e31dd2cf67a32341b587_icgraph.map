@@ -1,0 +1,6 @@
+<map id="setup_color" name="setup_color">
+<area shape="rect" id="node2" href="$setup__color__perm_8f90.html#a48f295db73f91597c204f36726e8822c" title="setup_color_perm" alt="" coords="144,5,272,31"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="320,5,469,31"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="517,5,630,31"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="678,5,775,31"/>
+</map>

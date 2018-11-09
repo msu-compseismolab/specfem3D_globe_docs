@@ -1,0 +1,8 @@
+<map id="write_output_ascii" name="write_output_ascii">
+<area shape="rect" id="node2" href="$write__seismograms_8f90.html#a600a5e64e46efefcdc62d9ce0415739c" title="write_one_seismogram" alt="" coords="181,31,341,56"/>
+<area shape="rect" id="node3" href="$write__seismograms_8f90.html#ae378084bba3fb6e0aaf421bdddc2d9f7" title="write_seismograms_to_file" alt="" coords="389,31,568,56"/>
+<area shape="rect" id="node4" href="$write__seismograms_8f90.html#a6ea5fef742d190f97b078fcfb1912d40" title="write_seismograms" alt="" coords="616,31,752,56"/>
+<area shape="rect" id="node5" href="$iterate__time_8_f90.html#a1c7956b87b2e085cd32a0c20fb6d29c9" title="iterate_time" alt="" coords="826,5,917,31"/>
+<area shape="rect" id="node7" href="$iterate__time__undoatt_8_f90.html#ac69f6bf2bfb2c82a2d50a79925c40be8" title="iterate_time_undoatt" alt="" coords="800,55,943,80"/>
+<area shape="rect" id="node6" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="991,31,1084,56"/>
+</map>

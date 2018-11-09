@@ -1,0 +1,8 @@
+<map id="get_color_faster" name="get_color_faster">
+<area shape="rect" id="node2" href="$get__perm__color_8f90.html#a9acf3176134c61ac5cba0a09b73d7bb7" title="get_perm_color_faster" alt="" coords="170,5,325,31"/>
+<area shape="rect" id="node3" href="$setup__color__perm_8f90.html#aaa4abefe16f8e31dd2cf67a32341b587" title="setup_color" alt="" coords="373,5,463,31"/>
+<area shape="rect" id="node4" href="$setup__color__perm_8f90.html#a48f295db73f91597c204f36726e8822c" title="setup_color_perm" alt="" coords="511,5,639,31"/>
+<area shape="rect" id="node5" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="687,5,837,31"/>
+<area shape="rect" id="node6" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="885,5,997,31"/>
+<area shape="rect" id="node7" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1045,5,1143,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="assemble_mpi_scalar_block" name="assemble_mpi_scalar_block">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a1b485fe0ed1703b671666f8ab63ba78d" title="sendrecv_cr" alt="" coords="204,5,298,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#ac7b0989198d6913363a5c0c46846c9cf" title="recv_cr" alt="" coords="218,55,283,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a547b99a4c6ba64aed44a4ededf571e7d" title="send_cr" alt="" coords="216,104,285,129"/>
+</map>

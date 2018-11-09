@@ -1,0 +1,4 @@
+<map id="assemble_mpi_scalar_send_gpu" name="assemble_mpi_scalar_send_gpu">
+<area shape="rect" id="node2" href="$parallel_8f90.html#acda26d10b6c0db7246987e007e83aaf6" title="isend_cr" alt="" coords="204,5,275,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#aa004ae1d38f747c8bce06cdf8ce173d3" title="irecv_cr" alt="" coords="205,55,273,80"/>
+</map>

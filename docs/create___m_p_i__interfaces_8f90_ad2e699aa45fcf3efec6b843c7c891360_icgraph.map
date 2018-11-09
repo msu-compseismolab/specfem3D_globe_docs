@@ -1,0 +1,6 @@
+<map id="cmi_allocate_addressing" name="cmi_allocate_addressing">
+<area shape="rect" id="node2" href="$create___m_p_i__interfaces_8f90.html#a879f18a72ba6547da565cf896357a37c" title="create_mpi_interfaces" alt="" coords="221,5,374,31"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="422,5,571,31"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="619,5,732,31"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="780,5,878,31"/>
+</map>

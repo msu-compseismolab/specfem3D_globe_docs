@@ -1,0 +1,12 @@
+<map id="assemble_mpi_scalar" name="assemble_mpi_scalar">
+<area shape="rect" id="node2" href="$test___m_p_i__interfaces_8f90.html#aa08d08dd609630bf987e3da4453a45a3" title="test_mpi_oc" alt="" coords="238,5,332,31"/>
+<area shape="rect" id="node8" href="$prepare__timerun_8_f90.html#a409c0b561d7688667529ba27c98d67c4" title="prepare_timerun_rmass\l_assembly" alt="" coords="204,55,366,93"/>
+<area shape="rect" id="node3" href="$setup___m_p_i__interfaces_8f90.html#a4eac835be62f2e96fa837020daec8a0b" title="setup_mpi_interfaces_oc" alt="" coords="414,5,584,31"/>
+<area shape="rect" id="node4" href="$setup___m_p_i__interfaces_8f90.html#af92195eba3d17329fb6c16827e76db41" title="setup_mpi_interfaces" alt="" coords="632,5,780,31"/>
+<area shape="rect" id="node5" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="828,5,978,31"/>
+<area shape="rect" id="node6" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="1026,5,1138,31"/>
+<area shape="rect" id="node7" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1186,5,1284,31"/>
+<area shape="rect" id="node9" href="$prepare__timerun_8_f90.html#a7b2c5212ec13326ae4f3e07330e9891e" title="prepare_timerun_mass\l_matrices" alt="" coords="420,55,578,93"/>
+<area shape="rect" id="node10" href="$prepare__timerun_8_f90.html#a90bdca77e34799e4b184eafee105bd47" title="prepare_timerun" alt="" coords="647,61,766,87"/>
+<area shape="rect" id="node11" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="856,61,950,87"/>
+</map>

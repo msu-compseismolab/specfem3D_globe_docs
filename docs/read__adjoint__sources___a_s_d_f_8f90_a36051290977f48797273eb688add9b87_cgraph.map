@@ -1,0 +1,6 @@
+<map id="check_adjoint_sources_asdf" name="check_adjoint_sources_asdf">
+<area shape="rect" id="node2" href="$write__seismograms_8f90.html#a51c1acfe46e81f6baee28db417367c2c" title="band_instrument_code" alt="" coords="243,5,400,31"/>
+<area shape="rect" id="node3" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="286,55,357,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="448,55,529,80"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="577,55,663,80"/>
+</map>

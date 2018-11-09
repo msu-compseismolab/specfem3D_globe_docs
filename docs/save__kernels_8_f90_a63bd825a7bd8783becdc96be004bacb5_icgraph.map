@@ -1,0 +1,8 @@
+<map id="rotate_kernels_dble" name="rotate_kernels_dble">
+<area shape="rect" id="node2" href="$save__kernels_8_f90.html#ac0c706b5f05b96b6686262bb3951dfec" title="save_kernels_crust\l_mantle_ani" alt="" coords="211,5,347,44"/>
+<area shape="rect" id="node7" href="$save__regular__kernels_8f90.html#afa570599e5eeca5506f32a61112b4d3b" title="save_regular_kernels_cm" alt="" coords="192,68,366,93"/>
+<area shape="rect" id="node3" href="$save__kernels_8_f90.html#a594577e6c09d0f363eca561f0cd7ee4c" title="save_kernels_crust\l_mantle" alt="" coords="414,33,550,72"/>
+<area shape="rect" id="node4" href="$save__kernels_8_f90.html#a360ff85de23b7b08351364bec45125b1" title="save_kernels" alt="" coords="598,40,698,65"/>
+<area shape="rect" id="node5" href="$finalize__simulation_8_f90.html#a3fad035abbce376264a29c45e327ed5e" title="finalize_simulation" alt="" coords="746,40,876,65"/>
+<area shape="rect" id="node6" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="924,40,1017,65"/>
+</map>

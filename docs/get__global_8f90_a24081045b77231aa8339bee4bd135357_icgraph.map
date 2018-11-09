@@ -1,0 +1,6 @@
+<map id="get_global_indirect_addressing" name="get_global_indirect_addressing">
+<area shape="rect" id="node2" href="$create__regions__mesh_8_f90.html#a7cb021528a38efdd9da7a1c1b65b4e0a" title="crm_setup_indexing" alt="" coords="187,12,327,37"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="375,12,525,37"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="573,12,685,37"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="733,12,831,37"/>
+</map>

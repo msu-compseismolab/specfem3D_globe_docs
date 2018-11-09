@@ -1,0 +1,8 @@
+<map id="get_cross_section_avg" name="get_cross_section_avg">
+<area shape="rect" id="node2" href="$rthetaphi__xyz_8f90.html#a9a2d6558f7f1b34dfd37aa834f59ec97" title="xyz_2_rthetaphi_dble" alt="" coords="211,5,359,31"/>
+<area shape="rect" id="node3" href="$reduce_8f90.html#a9759e908a22dc5603fa4394a09fc996b" title="reduce" alt="" coords="254,55,316,80"/>
+<area shape="rect" id="node4" href="$create__cross__section_8_f90.html#a6a35ba2dc5564e0b0f4b7879e76a0a01" title="get_regular_lat_lon\l_cell_area" alt="" coords="217,104,353,143"/>
+<area shape="rect" id="node7" href="$create__cross__section_8_f90.html#acaf000895ceb489f93ad7dc4812dd980" title="get_vertical_lat_lon\l_section_area" alt="" coords="217,167,353,205"/>
+<area shape="rect" id="node5" href="$create__cross__section_8_f90.html#aa18eabe02d233e78651d81bffc45c7d5" title="get_area_spherical_cell" alt="" coords="408,87,570,112"/>
+<area shape="rect" id="node6" href="$create__cross__section_8_f90.html#a3c243ee1d50697ca87fda261f26d33f3" title="get_area_spherical_cap" alt="" coords="407,136,571,161"/>
+</map>

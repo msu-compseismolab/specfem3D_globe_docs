@@ -1,0 +1,8 @@
+<map id="max_allreduce_i" name="max_allreduce_i">
+<area shape="rect" id="node2" href="$save__arrays__solver__adios_8_f90.html#accdbf75170c5cd6d085e97fefcd739d3" title="Main routine to save the arrays from the mesher to the solver with the help of ADIOS. " alt="" coords="396,5,533,44"/>
+<area shape="rect" id="node6" href="$save__arrays__solver__adios_8_f90.html#aa6e025e3e3103a672a2818ca9f600862" title="Save the arrays use by the solver for MPI communications. " alt="" coords="172,65,334,91"/>
+<area shape="rect" id="node3" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="596,40,745,65"/>
+<area shape="rect" id="node4" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="793,40,906,65"/>
+<area shape="rect" id="node5" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="954,40,1051,65"/>
+<area shape="rect" id="node7" href="$save__arrays__solver_8f90.html#a574a82101650dad17d43ae47b6799ff9" title="save_arrays_solver_mpi" alt="" coords="382,68,548,93"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="broadcast_computed_parameters" name="broadcast_computed_parameters">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a0ef479c405030e9e6387a149a94a61b4" title="bcast_all_i" alt="" coords="205,5,289,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#acbf9754e0778405d7286318f1096513a" title="bcast_all_l" alt="" coords="205,55,289,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a597577d7b2d03049529aec68ddf973d8" title="bcast_all_dp" alt="" coords="199,104,295,129"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a4379b4af7df1d0a2dcadec3aa8d0f144" title="bcast_all_ch" alt="" coords="200,153,295,179"/>
+</map>

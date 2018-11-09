@@ -1,0 +1,11 @@
+<map id="recv_dp" name="recv_dp">
+<area shape="rect" id="node2" href="$assemble___m_p_i__central__cube__mesh_8f90.html#aacdcea2ee2e5d34ee880748a0beeea3b" title="assemble_mpi_central\l_cube_block" alt="" coords="122,5,277,44"/>
+<area shape="rect" id="node8" href="$create__central__cube__buffers_8f90.html#a9b8131f0215d09dfdf71b83bbec34be1" title="create_central_cube\l_buffers" alt="" coords="128,68,271,107"/>
+<area shape="rect" id="node3" href="$setup___m_p_i__interfaces_8f90.html#af83adcb0df3d28d65d98ef1bd1988336" title="setup_mpi_interfaces_ic" alt="" coords="325,13,490,39"/>
+<area shape="rect" id="node4" href="$setup___m_p_i__interfaces_8f90.html#af92195eba3d17329fb6c16827e76db41" title="setup_mpi_interfaces" alt="" coords="540,15,688,40"/>
+<area shape="rect" id="node5" href="$create__regions__mesh_8_f90.html#a0cee82e38d2910121e93afc0d385291a" title="create_regions_mesh" alt="" coords="738,41,888,67"/>
+<area shape="rect" id="node6" href="$create__meshes_8f90.html#a6babe515fd7e98d04301677252c66c0d" title="create_meshes" alt="" coords="936,41,1049,67"/>
+<area shape="rect" id="node7" href="$meshfem3_d_8f90.html#a7cbdd10838d90c04185f0716d9530157" title="xmeshfem3d" alt="" coords="1097,41,1194,67"/>
+<area shape="rect" id="node9" href="$create___m_p_i__interfaces_8f90.html#ac50c6b379f86619b4046b96d324cfa6c" title="cmi_get_buffers" alt="" coords="349,68,465,93"/>
+<area shape="rect" id="node10" href="$create___m_p_i__interfaces_8f90.html#a879f18a72ba6547da565cf896357a37c" title="create_mpi_interfaces" alt="" coords="538,65,690,91"/>
+</map>

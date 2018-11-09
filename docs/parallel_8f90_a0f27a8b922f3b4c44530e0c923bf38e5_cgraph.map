@@ -1,0 +1,9 @@
+<map id="init_mpi" name="init_mpi">
+<area shape="rect" id="node2" href="$read__value__parameters_8f90.html#a462eefda2b471191d804a7ea8f096ab7" title="open_parameter_file\l_from_master_only" alt="" coords="121,5,264,44"/>
+<area shape="rect" id="node3" href="$read__value__parameters_8f90.html#a8d76dcfbe05459b675c01f375a33222a" title="close_parameter_file" alt="" coords="312,41,457,67"/>
+<area shape="rect" id="node4" href="$read__value__parameters_8f90.html#a50ade02e8d7a8381912bab8f0d7185e0" title="read_value_integer" alt="" coords="125,120,260,145"/>
+<area shape="rect" id="node5" href="$read__value__parameters_8f90.html#aae7e28fe40425fadb339117576c6e3ea" title="read_value_logical" alt="" coords="126,169,259,195"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#a23388879e66124dffb0dc2fc270eba3d" title="bcast_all_singlei" alt="" coords="133,219,252,244"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#aeedbef59738b83d17d7df5a5100460cb" title="bcast_all_singlel" alt="" coords="133,268,252,293"/>
+<area shape="rect" id="node8" href="$parallel_8f90.html#a2550ba897b6279981b4935b676c81975" title="world_split" alt="" coords="150,317,235,343"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="setup_color_perm" name="setup_color_perm">
+<area shape="rect" id="node2" href="$flush__system_8f90.html#a2edcdef242137f39b696bd77ff1a1d3c" title="flush_imain" alt="" coords="974,170,1063,195"/>
+<area shape="rect" id="node3" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="423,298,494,323"/>
+<area shape="rect" id="node6" href="$setup__color__perm_8f90.html#aaa4abefe16f8e31dd2cf67a32341b587" title="setup_color" alt="" coords="202,247,292,273"/>
+<area shape="rect" id="node17" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="191,522,304,547"/>
+<area shape="rect" id="node18" href="$setup__color__perm_8f90.html#ae7e1217a34b9b98b44d8dcb738b704f0" title="setup_permutation" alt="" coords="181,473,313,498"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="622,347,703,373"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="804,347,891,373"/>
+<area shape="rect" id="node7" href="$get__perm__color_8f90.html#a9acf3176134c61ac5cba0a09b73d7bb7" title="get_perm_color_faster" alt="" coords="381,197,536,222"/>
+<area shape="rect" id="node13" href="$create__name__database_8f90.html#a1458d5ed1adf73cdc3c32f0a0807fc71" title="create_name_database" alt="" coords="378,247,539,273"/>
+<area shape="rect" id="node14" href="$write___v_t_k__file_8f90.html#a341b1ab60c068375ee1230ed63637a71" title="write_vtk_data_elem_i" alt="" coords="382,347,536,373"/>
+<area shape="rect" id="node15" href="$parallel_8f90.html#a941d1a54a377aa0aaca7514ab404f91b" title="min_all_i" alt="" coords="422,45,496,70"/>
+<area shape="rect" id="node16" href="$parallel_8f90.html#a8c06ba4d8ed63a58e8841e8b64ad174d" title="max_all_i" alt="" coords="420,94,497,119"/>
+<area shape="rect" id="node8" href="$get__perm__color_8f90.html#a563d5119c0effdc10778979c3b1c00d6" title="get_color_faster" alt="" coords="604,197,721,222"/>
+<area shape="rect" id="node12" href="$get__perm__color_8f90.html#a2e887c8315173196deb48f6cf6151521" title="get_final_perm" alt="" coords="608,147,717,173"/>
+<area shape="rect" id="node9" href="$get__perm__color_8f90.html#a138e5189ca68af9ba375a3eaf006fc8f" title="count_mesh_valence" alt="" coords="774,246,921,271"/>
+<area shape="rect" id="node10" href="$get__perm__color_8f90.html#ae28b0a95e8c71ac133903a9075703962" title="balance_colors_droux" alt="" coords="771,95,923,121"/>
+<area shape="rect" id="node11" href="$get__perm__color_8f90.html#ae631cd1d7cb14a9574db14492af15c61" title="balance_colors_simple" alt="" coords="769,145,926,170"/>
+<area shape="rect" id="node19" href="$get__perm__color_8f90.html#a478031d1fd4a7fce9d4550887fae2484" title="permute_elements_integer" alt="" coords="369,449,549,474"/>
+<area shape="rect" id="node20" href="$get__perm__color_8f90.html#a86d8bd682314390ac1d0d1166801d839" title="permute_elements_integer1d" alt="" coords="361,498,556,523"/>
+<area shape="rect" id="node21" href="$get__perm__color_8f90.html#a7adb5079649be74ac4eb117509e3ceed" title="permute_elements_logical1d" alt="" coords="363,547,554,573"/>
+<area shape="rect" id="node22" href="$get__perm__color_8f90.html#a47d43932acd5de74b724aedd30f86c7a" title="permute_elements_dble" alt="" coords="376,597,541,622"/>
+<area shape="rect" id="node23" href="$get__perm__color_8f90.html#ab15e30f5dbf41e525c6d1f788cb3d5cc" title="permute_elements_real" alt="" coords="378,646,539,671"/>
+<area shape="rect" id="node24" href="$get__perm__color_8f90.html#abd139de5197a33b6b4e7df2e8cbf0b68" title="permute_elements_real_sls" alt="" coords="366,695,551,721"/>
+<area shape="rect" id="node25" href="$get__perm__color_8f90.html#ae4950fb9bf8830b601ca9aaa1ffa2de8" title="permute_elements_real1" alt="" coords="374,745,543,770"/>
+<area shape="rect" id="node26" href="$get__perm__color_8f90.html#afb5d63fa9078719a05fe14eaeec05165" title="permute_elements_real_sls1" alt="" coords="362,794,555,819"/>
+</map>

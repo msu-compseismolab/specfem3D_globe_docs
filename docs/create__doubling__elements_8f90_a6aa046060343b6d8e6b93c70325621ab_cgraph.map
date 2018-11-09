@@ -1,0 +1,51 @@
+<map id="create_doubling_elements" name="create_doubling_elements">
+<area shape="rect" id="node2" href="$define__superbrick_8f90.html#a84c9a64ec8a9d5bc6385d9c3a4d2402b" title="define_superbrick_one\l_layer" alt="" coords="250,1101,406,1140"/>
+<area shape="rect" id="node3" href="$define__superbrick_8f90.html#afb71c1290b0e3cd2d6ef1f9c88fc926f" title="define_superbrick" alt="" coords="265,1164,391,1189"/>
+<area shape="rect" id="node4" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="1059,1315,1130,1340"/>
+<area shape="rect" id="node7" href="$define__superbrick_8f90.html#ac9964f6e42de5868ec9e42d9a74a4534" title="define_basic_doubling\l_brick" alt="" coords="251,1263,405,1301"/>
+<area shape="rect" id="node8" href="$add__missing__nodes_8f90.html#abf4fcb19e9e59bd08815ec5e81b9bdc7" title="add_missing_nodes" alt="" coords="258,1325,398,1351"/>
+<area shape="rect" id="node9" href="$compute__coordinates__grid_8f90.html#ae559da674c0ed9c422fe1abae0c4d492" title="compute_coord_main_mesh" alt="" coords="233,1375,423,1400"/>
+<area shape="rect" id="node10" href="$compute__element__properties_8f90.html#abcb9ccb6c21593c418b18ae53cfcc403" title="compute_element_properties" alt="" coords="231,1213,425,1239"/>
+<area shape="rect" id="node49" href="$get__jacobian__discontinuities_8f90.html#a802b650c08444e3cb0f0a845ac22fc36" title="get_jacobian_discontinuities" alt="" coords="473,2123,661,2148"/>
+<area shape="rect" id="node5" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="1267,1315,1348,1340"/>
+<area shape="rect" id="node6" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="1419,1315,1506,1340"/>
+<area shape="rect" id="node11" href="$moho__stretching_8f90.html#a1bb7f8ecf0406d0273ac0e97dfe7cf3d" title="moho_stretching_honor\l_crust_reg" alt="" coords="486,353,648,392"/>
+<area shape="rect" id="node23" href="$moho__stretching_8f90.html#af3f3ddb76329522506890b858a8508d6" title="moho_stretching_honor\l_crust" alt="" coords="486,504,648,543"/>
+<area shape="rect" id="node24" href="$compute__element__properties_8f90.html#a82beb1bf2a27809d51dbbb353ecb29da" title="compute_element_gll\l_locations" alt="" coords="493,899,641,937"/>
+<area shape="rect" id="node25" href="$get__model_8_f90.html#ac07f780f374ff715837539fe3bbf4981" title="get_model" alt="" coords="525,961,609,987"/>
+<area shape="rect" id="node32" href="$add__topography_8f90.html#a7e5855b34224e4ae2b67de40d73ab4fd" title="Hejun. " alt="" coords="498,1281,636,1307"/>
+<area shape="rect" id="node34" href="$add__topography_8f90.html#aefcfb0e5beae45824ef2a3855815ea68" title="add_topography" alt="" coords="508,1353,626,1379"/>
+<area shape="rect" id="node35" href="$add__topography__410__650_8f90.html#a3cd9cbf4879b938258d161f509b263af" title="Hejun. " alt="" coords="493,1207,641,1245"/>
+<area shape="rect" id="node37" href="$add__topography__410__650_8f90.html#ad2f0f2db2f47e4868be36cc7ab320d74" title="add_topography_410_650" alt="" coords="479,1743,656,1768"/>
+<area shape="rect" id="node40" href="$model__full__sh_8f90.html#ab45a91e06f99533c61e67846b3db563e" title="add_topography_sh_mantle" alt="" coords="474,1568,660,1593"/>
+<area shape="rect" id="node42" href="$model__full__sh_8f90.html#af1b85f572ea2db08320d02391c8de296" title="add_topography_sh_cmb" alt="" coords="481,1893,653,1919"/>
+<area shape="rect" id="node44" href="$get__ellipticity_8f90.html#a800ca5b2378e0188c8143aeb84947dc3" title="Hejun. " alt="" coords="508,663,626,688"/>
+<area shape="rect" id="node46" href="$get__ellipticity_8f90.html#a3a1c8f59f1f1b0ce0378cd1487b21067" title="get_ellipticity" alt="" coords="518,713,616,739"/>
+<area shape="rect" id="node47" href="$calc__jacobian_8f90.html#a3e97108b47c156646784bea1e640f58e" title="Hejun. " alt="" coords="752,156,902,181"/>
+<area shape="rect" id="node12" href="$rthetaphi__xyz_8f90.html#a9a2d6558f7f1b34dfd37aa834f59ec97" title="xyz_2_rthetaphi_dble" alt="" coords="1021,813,1169,839"/>
+<area shape="rect" id="node13" href="$reduce_8f90.html#a9759e908a22dc5603fa4394a09fc996b" title="reduce" alt="" coords="1064,863,1126,888"/>
+<area shape="rect" id="node14" href="$rthetaphi__xyz_8f90.html#ab38048ac848cabe5ca2bb2fd39b3aa7d" title="xyz_2_rlatlon_dble" alt="" coords="761,1264,893,1289"/>
+<area shape="rect" id="node16" href="$meshfem3_d__models_8_f90.html#afd5d3b26384169ab1c82e317f368ea59" title="meshfem3d_model_crust" alt="" coords="1009,308,1180,333"/>
+<area shape="rect" id="node20" href="$moho__stretching_8f90.html#ad49c6e54936c855e1283db92075e64da" title="stretch_deep_moho" alt="" coords="757,55,897,80"/>
+<area shape="rect" id="node22" href="$moho__stretching_8f90.html#a4b5434200e137c965186982ec834c25e" title="stretch_moho" alt="" coords="776,5,878,31"/>
+<area shape="rect" id="node15" href="$rthetaphi__xyz_8f90.html#a606ed866ba0717c1a16bfe88714bc93c" title="geocentric_2_geographic_dble" alt="" coords="993,1264,1196,1289"/>
+<area shape="rect" id="node17" href="$model__crust__1__0_8f90.html#acbcb6d514c02a09da658ddeb7cfc4f5c" title="model_crust_1_0" alt="" coords="1246,308,1370,333"/>
+<area shape="rect" id="node18" href="$model__crust__2__0_8f90.html#a46fa32002bdfc4a3e914bea85addf3be" title="model_crust_2_0" alt="" coords="1246,357,1370,383"/>
+<area shape="rect" id="node19" href="$model__crustmaps_8f90.html#aae59e84168b504695ea7f68c2eb9ca3b" title="model_crustmaps" alt="" coords="1244,259,1371,284"/>
+<area shape="rect" id="node21" href="$moho__stretching_8f90.html#ae01b7a2e9b2da0b8323c23cb1d374b26" title="move_point" alt="" coords="1049,55,1140,80"/>
+<area shape="rect" id="node26" href="$get__model_8_f90.html#adc072934d5bd0c1ce09a5bf5d49c7ca5" title="get_model_check_idoubling" alt="" coords="734,961,920,987"/>
+<area shape="rect" id="node27" href="$meshfem3_d__models_8_f90.html#abbbe71717d8322ae168b2cb43ab44e26" title="meshfem3d_models_get1d_val" alt="" coords="724,912,930,937"/>
+<area shape="rect" id="node28" href="$meshfem3_d__models_8_f90.html#ab4ad790d299dd6cb70d69c2e39fc19dc" title="meshfem3d_models_get3dmntl_val" alt="" coords="711,863,943,888"/>
+<area shape="rect" id="node29" href="$meshfem3_d__models_8_f90.html#ade152d925215712e4aacc54c4a8373a0" title="meshfem3d_models_get3dcrust_val" alt="" coords="709,764,945,789"/>
+<area shape="rect" id="node30" href="$meshfem3_d__models_8_f90.html#a45c631ccc5bc567a867a589a5da01793" title="meshfem3d_models_impose_val" alt="" coords="719,1011,935,1036"/>
+<area shape="rect" id="node31" href="$meshfem3_d__models_8_f90.html#a57d2a020068fd62a2d3bf9ac0fd39a21" title="meshfem3d_models_getatten_val" alt="" coords="716,813,938,839"/>
+<area shape="rect" id="node33" href="$model__topo__bathy_8f90.html#abcd25c844d4d671def57035eebe09bf8" title="get_topo_bathy" alt="" coords="770,1365,884,1391"/>
+<area shape="rect" id="node36" href="$model__s362ani_8f90.html#a66c6853a0b5c364fd0441acdfb95cb23" title="model_s362ani_subtopo" alt="" coords="744,1568,910,1593"/>
+<area shape="rect" id="node38" href="$parallel_8f90.html#a6ebf1d587fecde7d78782b1dd3ceba34" title="min_all_cr" alt="" coords="786,1719,868,1744"/>
+<area shape="rect" id="node39" href="$parallel_8f90.html#ac9b075f5c225256da89de649d78572bf" title="max_all_cr" alt="" coords="784,1768,870,1793"/>
+<area shape="rect" id="node41" href="$model__full__sh_8f90.html#af161cf751a3d623faf46936b5670f203" title="subtopo_sh" alt="" coords="782,1669,872,1695"/>
+<area shape="rect" id="node43" href="$model__full__sh_8f90.html#a6ae68f8846e9cef9f10461d4287e3644" title="subtopo_sh_cmb" alt="" coords="766,2021,888,2047"/>
+<area shape="rect" id="node45" href="$spline__routines_8f90.html#aadd8c5cf711f6176dbdecb5d94ab0a3d" title="spline_evaluation" alt="" coords="765,663,889,688"/>
+<area shape="rect" id="node48" href="$lagrange__poly_8f90.html#a39932627e6d212a19fe7225b9a8c25e7" title="lagrange_any" alt="" coords="1044,156,1146,181"/>
+<area shape="rect" id="node50" href="$get__jacobian__boundaries_8f90.html#a3b418dfd9c1e5924e3e0170cccbc192a" title="compute_jacobian_2d" alt="" coords="751,2173,903,2199"/>
+</map>

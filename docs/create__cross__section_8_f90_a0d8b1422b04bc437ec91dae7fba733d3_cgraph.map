@@ -1,0 +1,5 @@
+<map id="collect_closest_point_values" name="collect_closest_point_values">
+<area shape="rect" id="node2" href="$parallel_8f90.html#ac7b0989198d6913363a5c0c46846c9cf" title="recv_cr" alt="" coords="222,5,287,31"/>
+<area shape="rect" id="node3" href="$parallel_8f90.html#a547b99a4c6ba64aed44a4ededf571e7d" title="send_cr" alt="" coords="220,55,289,80"/>
+<area shape="rect" id="node4" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="198,104,311,129"/>
+</map>

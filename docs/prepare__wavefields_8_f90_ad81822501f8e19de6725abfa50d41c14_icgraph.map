@@ -1,0 +1,5 @@
+<map id="init_wavefields" name="init_wavefields">
+<area shape="rect" id="node2" href="$prepare__wavefields_8_f90.html#a42f01ea021d1052f49b7ad4e01b9a590" title="prepare_wavefields" alt="" coords="161,5,298,31"/>
+<area shape="rect" id="node3" href="$prepare__timerun_8_f90.html#a90bdca77e34799e4b184eafee105bd47" title="prepare_timerun" alt="" coords="346,5,466,31"/>
+<area shape="rect" id="node4" href="$specfem3_d_8_f90.html#a0ec47524013a3bfc28246c397b9d5f1a" title="xspecfem3d" alt="" coords="514,5,607,31"/>
+</map>

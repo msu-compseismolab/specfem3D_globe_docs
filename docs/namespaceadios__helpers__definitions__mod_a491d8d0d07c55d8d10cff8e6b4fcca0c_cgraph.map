@@ -1,0 +1,5 @@
+<map id="adios_helpers_definitions_mod::define_adios_global_1d_int_1d" name="adios_helpers_definitions_mod::define_adios_global_1d_int_1d">
+<area shape="rect" id="node2" href="$namespaceadios__helpers__definitions__mod.html#ae6157b960834cf05014b27290b218773" title="Define the dimensions that will be written along a global array in ADIOS. " alt="" coords="234,31,415,83"/>
+<area shape="rect" id="node3" href="$namespaceadios__helpers__definitions__mod.html#ad7459a08eb39182a99df220407daca1b" title="Define an ADIOS scalar integer variable and autoincrement the adios group size by (4)..." alt="" coords="463,5,692,44"/>
+<area shape="rect" id="node4" href="$namespaceadios__helpers__definitions__mod.html#a22705156ae8ccf7d8c06d680d50a8910" title="Define an ADIOS scalar long integer variable and autoincrement the adios group size by (8)..." alt="" coords="471,68,684,107"/>
+</map>

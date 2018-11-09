@@ -1,0 +1,25 @@
+<map id="sum_kernels_globe" name="sum_kernels_globe">
+<area shape="rect" id="node2" href="$parallel_8f90.html#a0f27a8b922f3b4c44530e0c923bf38e5" title="init_mpi" alt="" coords="241,184,308,209"/>
+<area shape="rect" id="node10" href="$parallel_8f90.html#ab40105b69cc0851ddeff89077fe800d6" title="world_size" alt="" coords="443,419,527,444"/>
+<area shape="rect" id="node11" href="$parallel_8f90.html#aff9d23d13aea2e9205a948e361440ffa" title="world_rank" alt="" coords="804,568,891,593"/>
+<area shape="rect" id="node12" href="$parallel_8f90.html#a5c0b8ddb524981fa08f6346a2d42e7b9" title="synchronize_all" alt="" coords="218,675,331,700"/>
+<area shape="rect" id="node13" href="$namespacemanager__adios.html#a9454863b300d731b76db349c77976ee9" title="manager_adios::initialize\l_adios" alt="" coords="190,529,358,568"/>
+<area shape="rect" id="node18" href="$combine__sem_8f90.html#a0e7c98949184913cac9dd34cf632408a" title="sum_kernel" alt="" coords="229,735,319,760"/>
+<area shape="rect" id="node20" href="$namespacemanager__adios.html#a5dec530bb016f2c79cdc74911d7e8387" title="manager_adios::finalize\l_adios" alt="" coords="193,612,355,651"/>
+<area shape="rect" id="node23" href="$parallel_8f90.html#ac422b103fe555bf7e5c01684fc30634b" title="finalize_mpi" alt="" coords="228,805,320,831"/>
+<area shape="rect" id="node3" href="$read__value__parameters_8f90.html#a462eefda2b471191d804a7ea8f096ab7" title="open_parameter_file\l_from_master_only" alt="" coords="413,205,557,244"/>
+<area shape="rect" id="node4" href="$read__value__parameters_8f90.html#a8d76dcfbe05459b675c01f375a33222a" title="close_parameter_file" alt="" coords="611,184,756,209"/>
+<area shape="rect" id="node5" href="$read__value__parameters_8f90.html#a50ade02e8d7a8381912bab8f0d7185e0" title="read_value_integer" alt="" coords="417,268,553,293"/>
+<area shape="rect" id="node6" href="$read__value__parameters_8f90.html#aae7e28fe40425fadb339117576c6e3ea" title="read_value_logical" alt="" coords="419,317,551,343"/>
+<area shape="rect" id="node7" href="$parallel_8f90.html#a23388879e66124dffb0dc2fc270eba3d" title="bcast_all_singlei" alt="" coords="425,5,544,31"/>
+<area shape="rect" id="node8" href="$parallel_8f90.html#aeedbef59738b83d17d7df5a5100460cb" title="bcast_all_singlel" alt="" coords="425,55,544,80"/>
+<area shape="rect" id="node9" href="$parallel_8f90.html#a2550ba897b6279981b4935b676c81975" title="world_split" alt="" coords="443,104,527,129"/>
+<area shape="rect" id="node14" href="$parallel_8f90.html#af9aafd1831ffab5bb90f71c0d82df5a7" title="world_duplicate" alt="" coords="428,468,542,493"/>
+<area shape="rect" id="node15" href="$parallel_8f90.html#aa6ac49a0d296ad4b22eaf807e4d40e17" title="world_rank_comm" alt="" coords="420,517,550,543"/>
+<area shape="rect" id="node16" href="$exit__mpi_8f90.html#af44e23ceddc0360242374f924e51f5b9" title="exit_mpi" alt="" coords="449,619,520,644"/>
+<area shape="rect" id="node17" href="$parallel_8f90.html#a2cb16ba0f972c8309ad9d4925c7031f2" title="abort_mpi" alt="" coords="644,619,724,644"/>
+<area shape="rect" id="node19" href="$parallel_8f90.html#a57feda3298972f729dd050820027b20b" title="sum_all_dp" alt="" coords="440,767,530,792"/>
+<area shape="rect" id="node21" href="$parallel_8f90.html#a0e90b72ed9435edc806d698beceb6d66" title="synchronize_all_comm" alt="" coords="406,717,563,743"/>
+<area shape="rect" id="node22" href="$parallel_8f90.html#a6cdcbb533d4cd9127d0904f41f7b25fb" title="world_comm_free" alt="" coords="421,668,548,693"/>
+<area shape="rect" id="node24" href="$parallel_8f90.html#aadde7f0014a9157e22e3cbeb9b607a5e" title="world_unsplit" alt="" coords="435,816,534,841"/>
+</map>
